@@ -1,0 +1,393 @@
+[
+  {
+    "Pos": "1ª",
+    "Torcedor": "Letícia Tati",
+    "Pts": 1150,
+    "RC": 0,
+    "C": "Manchester City",
+    "A": "Haaland (MCI)",
+    "CC": 10,
+    "VC": "75"
+  },
+  {
+    "Pos": "2ª",
+    "Torcedor": "Pedro Tati",
+    "Pts": 1115,
+    "RC": 6,
+    "C": "Bayern",
+    "A": "Haaland (MCI)",
+    "CC": 10,
+    "VC": "75"
+  },
+  {
+    "Pos": "3ª",
+    "Torcedor": "Seu Tendência",
+    "Pts": 1115,
+    "RC": 5,
+    "C": "Real Madrid",
+    "A": "Mbappe (RMA)",
+    "CC": 9,
+    "VC": "75"
+  },
+  {
+    "Pos": "4ª",
+    "Torcedor": "Léo Lorenhell",
+    "Pts": 1105,
+    "RC": 7,
+    "C": "Inter Milan",
+    "A": "Lautaro Martinez (INT)",
+    "CC": 9,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "5ª",
+    "Torcedor": "Seu Hilton",
+    "Pts": 1105,
+    "RC": 5,
+    "C": "Palmeiras",
+    "A": "Estêvão (PAL)",
+    "CC": 7,
+    "VC": "75"
+  },
+  {
+    "Pos": "6ª",
+    "Torcedor": "Patrick",
+    "Pts": 1100,
+    "RC": 8,
+    "C": "Manchester City",
+    "A": "Haaland (MCI)",
+    "CC": 6,
+    "VC": "Atletico Madrid"
+  },
+  {
+    "Pos": "7ª",
+    "Torcedor": "Rick Lima",
+    "Pts": 1100,
+    "RC": 7,
+    "C": "Real Madrid",
+    "A": "Kane (BAY)",
+    "CC": 10,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "8ª",
+    "Torcedor": "Francisco Vortx",
+    "Pts": 1090,
+    "RC": 5,
+    "C": "Palmeiras",
+    "A": "Mbappe (RMA)",
+    "CC": 10,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "9ª",
+    "Torcedor": "Cynric",
+    "Pts": 1090,
+    "RC": 2,
+    "C": "Real Madrid",
+    "A": "Haaland (MCI)",
+    "CC": 11,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "10ª",
+    "Torcedor": "Lopez",
+    "Pts": 1085,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "100",
+    "CC": 8,
+    "VC": "Bayern"
+  },
+  {
+    "Pos": "11ª",
+    "Torcedor": "Cauã O'Conner",
+    "Pts": 1075,
+    "RC": 8,
+    "C": "PSG",
+    "A": "Dembele (PSG)",
+    "CC": 9,
+    "VC": "Bayern"
+  },
+  {
+    "Pos": "12ª",
+    "Torcedor": "Seu Müller",
+    "Pts": 1070,
+    "RC": 5,
+    "C": "PSG",
+    "A": "Kane (BAY)",
+    "CC": 8,
+    "VC": "Bayern"
+  },
+  {
+    "Pos": "13ª",
+    "Torcedor": "Carlos Jr.",
+    "Pts": 1065,
+    "RC": 5,
+    "C": "Real Madrid",
+    "A": "Mbappe (RMA)",
+    "CC": 10,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "14ª",
+    "Torcedor": "Consc. coletiva/hivemind",
+    "Pts": 1065,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "Haaland (MCI)",
+    "CC": 9,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "15ª",
+    "Torcedor": "Gerrit",
+    "Pts": 1060,
+    "RC": 5,
+    "C": "Bayern",
+    "A": "Goncalo Ramos (PSG)",
+    "CC": 9,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "16ª",
+    "Torcedor": "Seu Tgueze",
+    "Pts": 1060,
+    "RC": 3,
+    "C": "Manchester City",
+    "A": "Mbappe (RMA)",
+    "CC": 7,
+    "VC": "75"
+  },
+  {
+    "Pos": "17ª",
+    "Torcedor": "Regueba",
+    "Pts": 1050,
+    "RC": 4,
+    "C": "Bayern",
+    "A": "Mbappe (RMA)",
+    "CC": 9,
+    "VC": "Chelsea"
+  },
+  {
+    "Pos": "18ª",
+    "Torcedor": "Merenor Lanfast",
+    "Pts": 1040,
+    "RC": 5,
+    "C": "Inter Milan",
+    "A": "Dembele (PSG)",
+    "CC": 7,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "19ª",
+    "Torcedor": "Léo Diversi",
+    "Pts": 1040,
+    "RC": 3,
+    "C": "Real Madrid",
+    "A": "Haaland (MCI)",
+    "CC": 8,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "20ª",
+    "Torcedor": "Lucas IA",
+    "Pts": 1025,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "Mbappe (RMA)",
+    "CC": 8,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "21ª",
+    "Torcedor": "Seu Paulinho",
+    "Pts": 1025,
+    "RC": 4,
+    "C": "PSG",
+    "A": "Haaland (MCI)",
+    "CC": 8,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "22ª",
+    "Torcedor": "Seu Zé Gomes",
+    "Pts": 1015,
+    "RC": 3,
+    "C": "Bayern",
+    "A": "Gnabry (BAY)",
+    "CC": 8,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "23ª",
+    "Torcedor": "Martin",
+    "Pts": 1010,
+    "RC": 4,
+    "C": "PSG",
+    "A": "Dembele (PSG)",
+    "CC": 8,
+    "VC": "Borussia"
+  },
+  {
+    "Pos": "24ª",
+    "Torcedor": "Andrey",
+    "Pts": 1010,
+    "RC": 1,
+    "C": "Manchester City",
+    "A": "Haaland (MCI)",
+    "CC": 9,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "25ª",
+    "Torcedor": "Cabeça",
+    "Pts": 1005,
+    "RC": 2,
+    "C": "PSG",
+    "A": "Haaland (MCI)",
+    "CC": 8,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "26ª",
+    "Torcedor": "Xandão",
+    "Pts": 1000,
+    "RC": 5,
+    "C": "Manchester City",
+    "A": "Haaland (MCI)",
+    "CC": 7,
+    "VC": "Real Madrid"
+  },
+  {
+    "Pos": "27ª",
+    "Torcedor": "Pelanza",
+    "Pts": 965,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "Vini Jr. (RMA)",
+    "CC": 8,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "28ª",
+    "Torcedor": "FC Humildade (ChatGPT)",
+    "Pts": 965,
+    "RC": 3,
+    "C": "Real Madrid",
+    "A": "Haaland (MCI)",
+    "CC": 10,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "29ª",
+    "Torcedor": "Rafael",
+    "Pts": 965,
+    "RC": 3,
+    "C": "Bayern",
+    "A": "Kane (BAY)",
+    "CC": 9,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "30ª",
+    "Torcedor": "Guilherme Fiuza",
+    "Pts": 960,
+    "RC": 5,
+    "C": "Real Madrid",
+    "A": "Mbappe (RMA)",
+    "CC": 8,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "31ª",
+    "Torcedor": "Caio",
+    "Pts": 945,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "Kane (BAY)",
+    "CC": 8,
+    "VC": "Bayern"
+  },
+  {
+    "Pos": "32ª",
+    "Torcedor": "Bennie",
+    "Pts": 940,
+    "RC": 6,
+    "C": "Real Madrid",
+    "A": "Marmoush (MCI)",
+    "CC": 4,
+    "VC": "Los Angeles FC"
+  },
+  {
+    "Pos": "33ª",
+    "Torcedor": "Franzi",
+    "Pts": 935,
+    "RC": 7,
+    "C": "Real Madrid",
+    "A": "Mbappe (RMA)",
+    "CC": 7,
+    "VC": "Borussia"
+  },
+  {
+    "Pos": "34ª",
+    "Torcedor": "Zizi",
+    "Pts": 930,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "Mbappe (RMA)",
+    "CC": 7,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "35ª",
+    "Torcedor": "Dona Marisa",
+    "Pts": 925,
+    "RC": 6,
+    "C": "Real Madrid",
+    "A": "Kane (BAY)",
+    "CC": 10,
+    "VC": "Bayern"
+  },
+  {
+    "Pos": "36ª",
+    "Torcedor": "Julcyr",
+    "Pts": 915,
+    "RC": 3,
+    "C": "Real Madrid",
+    "A": "Haaland (MCI)",
+    "CC": 6,
+    "VC": "Manchester City"
+  },
+  {
+    "Pos": "37ª",
+    "Torcedor": "Eskeleto",
+    "Pts": 865,
+    "RC": 4,
+    "C": "Bayern",
+    "A": "Kane (BAY)",
+    "CC": 6,
+    "VC": "Inter Milan"
+  },
+  {
+    "Pos": "38ª",
+    "Torcedor": "Seu Thiago Admin",
+    "Pts": 830,
+    "RC": 4,
+    "C": "Real Madrid",
+    "A": "Lautaro Martinez (INT)",
+    "CC": 6,
+    "VC": "Atletico Madrid"
+  },
+  {
+    "Pos": "39ª",
+    "Torcedor": "Gustavo Fiuza",
+    "Pts": 830,
+    "RC": 1,
+    "C": "Bayern",
+    "A": "Dembele (PSG)",
+    "CC": 2,
+    "VC": "75"
+  }
+]
+
