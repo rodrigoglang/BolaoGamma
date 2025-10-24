@@ -1,6 +1,654 @@
 [
   {
     "Grupo": "A",
+    "HorarioH": 20,
+    "HorarioM": 0,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "Chile",
+    "TimeFora": "Sweden",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "A",
+    "HorarioH": 15,
+    "HorarioM": 0,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Ivory Coast",
+    "TimeFora": "Spain",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "A",
+    "HorarioH": 13,
+    "HorarioM": 0,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "Chile",
+    "TimeFora": "Spain",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "A",
+    "HorarioH": 12,
+    "HorarioM": 0,
+    "Local": "NRG Stadium\nHouston (TX)",
+    "TimeCasa": "Sweden",
+    "TimeFora": "Ivory Coast",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "A",
+    "HorarioH": 20,
+    "HorarioM": 0,
+    "Local": "Estadio Akron\nGuadalajara (JAL)",
+    "TimeCasa": "Spain",
+    "TimeFora": "Sweden",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "A",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "BMO Field\nToronto (ON)",
+    "TimeCasa": "Ivory Coast",
+    "TimeFora": "Chile",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "B",
+    "HorarioH": 13,
+    "HorarioM": 30,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "Belgium",
+    "TimeFora": "Uruguay",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "B",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "BMO Field\nToronto (ON)",
+    "TimeCasa": "South Korea",
+    "TimeFora": "Qatar",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "B",
+    "HorarioH": 15,
+    "HorarioM": 30,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "Belgium",
+    "TimeFora": "Qatar",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "B",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
+    "TimeCasa": "Uruguay",
+    "TimeFora": "South Korea",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "B",
+    "HorarioH": 14,
+    "HorarioM": 0,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "Qatar",
+    "TimeFora": "Uruguay",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "B",
+    "HorarioH": 13,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "South Korea",
+    "TimeFora": "Belgium",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "C",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "France",
+    "TimeFora": "Costa Rica",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "C",
+    "HorarioH": 13,
+    "HorarioM": 30,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "Turkey",
+    "TimeFora": "Austria",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "C",
+    "HorarioH": 15,
+    "HorarioM": 0,
+    "Local": "MetLife Stadium\nEast Rutherford (NJ)",
+    "TimeCasa": "France",
+    "TimeFora": "Austria",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "C",
+    "HorarioH": 16,
+    "HorarioM": 30,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Costa Rica",
+    "TimeFora": "Turkey",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "C",
+    "HorarioH": 18,
+    "HorarioM": 30,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "Austria",
+    "TimeFora": "Costa Rica",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "C",
+    "HorarioH": 12,
+    "HorarioM": 30,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "Turkey",
+    "TimeFora": "France",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "D",
+    "HorarioH": 18,
+    "HorarioM": 30,
+    "Local": "Commonwealth Stadium\nEdmonton (AB)",
+    "TimeCasa": "Mexico",
+    "TimeFora": "Peru",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "D",
+    "HorarioH": 18,
+    "HorarioM": 30,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Australia",
+    "TimeFora": "Canada",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "D",
+    "HorarioH": 19,
+    "HorarioM": 30,
+    "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
+    "TimeCasa": "Mexico",
+    "TimeFora": "Canada",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "D",
+    "HorarioH": 20,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "Peru",
+    "TimeFora": "Australia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "D",
+    "HorarioH": 13,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "Canada",
+    "TimeFora": "Peru",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "D",
+    "HorarioH": 20,
+    "HorarioM": 0,
+    "Local": "BMO Field\nToronto (ON)",
+    "TimeCasa": "Australia",
+    "TimeFora": "Mexico",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "E",
+    "HorarioH": 16,
+    "HorarioM": 30,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "Algeria",
+    "TimeFora": "Italy",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "E",
+    "HorarioH": 17,
+    "HorarioM": 30,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Ghana",
+    "TimeFora": "Norway",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "E",
+    "HorarioH": 12,
+    "HorarioM": 30,
+    "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
+    "TimeCasa": "Algeria",
+    "TimeFora": "Norway",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "E",
+    "HorarioH": 13,
+    "HorarioM": 30,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Italy",
+    "TimeFora": "Ghana",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "E",
+    "HorarioH": 19,
+    "HorarioM": 30,
+    "Local": "BC Place\nVancouver (BC)",
+    "TimeCasa": "Norway",
+    "TimeFora": "Italy",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "E",
+    "HorarioH": 16,
+    "HorarioM": 30,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Ghana",
+    "TimeFora": "Algeria",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "F",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "Saudi Arabia",
+    "TimeFora": "Colombia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "F",
+    "HorarioH": 14,
+    "HorarioM": 30,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "Iran",
+    "TimeFora": "Scotland",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "F",
+    "HorarioH": 15,
+    "HorarioM": 30,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Saudi Arabia",
+    "TimeFora": "Scotland",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "F",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Estadio Azteca\nCiudad de Mexico (CDMX)",
+    "TimeCasa": "Colombia",
+    "TimeFora": "Iran",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "F",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "BMO Field\nToronto (ON)",
+    "TimeCasa": "Scotland",
+    "TimeFora": "Colombia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "F",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Iran",
+    "TimeFora": "Saudi Arabia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "G",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Egypt",
+    "TimeFora": "Panama",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "G",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "England",
+    "TimeFora": "Morocco",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "G",
+    "HorarioH": 16,
+    "HorarioM": 30,
+    "Local": "MetLife Stadium\nEast Rutherford (NJ)",
+    "TimeCasa": "Egypt",
+    "TimeFora": "Morocco",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "G",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "Panama",
+    "TimeFora": "England",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "G",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Morocco",
+    "TimeFora": "Panama",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "G",
+    "HorarioH": 16,
+    "HorarioM": 30,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "England",
+    "TimeFora": "Egypt",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "H",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
+    "TimeCasa": "Croatia",
+    "TimeFora": "Uzbekistan",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "H",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "Cameroon",
+    "TimeFora": "Denmark",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "H",
+    "HorarioH": 19,
+    "HorarioM": 30,
+    "Local": "BC Place\nVancouver (BC)",
+    "TimeCasa": "Croatia",
+    "TimeFora": "Denmark",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "H",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "Uzbekistan",
+    "TimeFora": "Cameroon",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "H",
+    "HorarioH": 17,
+    "HorarioM": 30,
+    "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
+    "TimeCasa": "Denmark",
+    "TimeFora": "Uzbekistan",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "H",
+    "HorarioH": 14,
+    "HorarioM": 30,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "Cameroon",
+    "TimeFora": "Croatia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "I",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "MetLife Stadium\nEast Rutherford (NJ)",
+    "TimeCasa": "Nigeria",
+    "TimeFora": "Portugal",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "I",
+    "HorarioH": 14,
+    "HorarioM": 0,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "Argentina",
+    "TimeFora": "Ukraine",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "I",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "Nigeria",
+    "TimeFora": "Ukraine",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "I",
+    "HorarioH": 15,
+    "HorarioM": 30,
+    "Local": "NRG Stadium\nHouston (TX)",
+    "TimeCasa": "Portugal",
+    "TimeFora": "Argentina",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "I",
+    "HorarioH": 16,
+    "HorarioM": 0,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "Ukraine",
+    "TimeFora": "Portugal",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "I",
+    "HorarioH": 15,
+    "HorarioM": 30,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "Argentina",
+    "TimeFora": "Nigeria",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "J",
+    "HorarioH": 13,
+    "HorarioM": 0,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "South Africa",
+    "TimeFora": "Poland",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "J",
+    "HorarioH": 16,
+    "HorarioM": 0,
+    "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
+    "TimeCasa": "United States",
+    "TimeFora": "Senegal",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "J",
+    "HorarioH": 19,
+    "HorarioM": 30,
+    "Local": "Estadio Akron\nGuadalajara (JAL)",
+    "TimeCasa": "South Africa",
+    "TimeFora": "Senegal",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "J",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "Poland",
+    "TimeFora": "United States",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "J",
+    "HorarioH": 13,
+    "HorarioM": 0,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Senegal",
+    "TimeFora": "Poland",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "J",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
+    "TimeCasa": "United States",
+    "TimeFora": "South Africa",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "K",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "Vanuatu",
+    "TimeFora": "Brazil",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "K",
+    "HorarioH": 19,
+    "HorarioM": 30,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "Tunisia",
+    "TimeFora": "Serbia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "K",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "Vanuatu",
+    "TimeFora": "Serbia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "K",
+    "HorarioH": 13,
+    "HorarioM": 30,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Brazil",
+    "TimeFora": "Tunisia",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "K",
+    "HorarioH": 15,
+    "HorarioM": 30,
+    "Local": "BC Place\nVancouver (BC)",
+    "TimeCasa": "Serbia",
+    "TimeFora": "Brazil",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "K",
+    "HorarioH": 14,
+    "HorarioM": 30,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "Tunisia",
+    "TimeFora": "Vanuatu",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "L",
+    "HorarioH": 18,
+    "HorarioM": 30,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "Netherlands",
+    "TimeFora": "Germany",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "L",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "BMO Field\nToronto (ON)",
+    "TimeCasa": "Switzerland",
+    "TimeFora": "Japan",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "L",
+    "HorarioH": 14,
+    "HorarioM": 30,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Netherlands",
+    "TimeFora": "Japan",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "L",
+    "HorarioH": 14,
+    "HorarioM": 30,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "Germany",
+    "TimeFora": "Switzerland",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "L",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "Japan",
+    "TimeFora": "Germany",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "L",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "Switzerland",
+    "TimeFora": "Netherlands",
+    "Data": "07/11"
+  },
+  {
+    "Grupo": "A",
     "HorarioH": 18,
     "HorarioM": 30,
     "Local": "Casa da mãe Joana",
@@ -44,7 +692,7 @@
     "TimeFora": "RTFC",
     "Data": "22/06"
   },
-    {
+  {
     "Grupo": "A",
     "HorarioH": 14,
     "HorarioM": 25,
