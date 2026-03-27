@@ -18,8 +18,8 @@ void main() async {
 
   // 🔍 Read query parameters
   final uri = Uri.base; // e.g. https://site/?user=Rodrigo
-  final String? userParam = uri.queryParameters["user"]; // returns "Rodrigo"
-  //final String userParam = "HARDCODED"; // For local use
+  //final String? userParam = uri.queryParameters["user"]; // returns "Rodrigo"
+  final String userParam = "Eskeleto23"; // For local use
 
   runApp(MyApp(initialUser: userParam));
 
