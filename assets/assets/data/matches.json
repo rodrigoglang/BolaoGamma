@@ -15,7 +15,7 @@
     "Local": "Estadio Akron\nGuadalajara (JAL)",
     "TimeCasa": "KOR",
     "TimeFora": "TBD_A",
-    "Data": "11/06"
+    "Data": "12/06"
   },
   {
     "Grupo": "A",
@@ -33,7 +33,7 @@
     "Local": "Estadio Akron\nGuadalajara (JAL)",
     "TimeCasa": "MEX",
     "TimeFora": "KOR",
-    "Data": "18/06"
+    "Data": "19/06"
   },
   {
     "Grupo": "A",
@@ -42,7 +42,7 @@
     "Local": "Estadio Azteca\nMexico City (CDMX)",
     "TimeCasa": "TBD_A",
     "TimeFora": "MEX",
-    "Data": "24/06"
+    "Data": "25/06"
   },
   {
     "Grupo": "A",
@@ -51,9 +51,8 @@
     "Local": "Estadio BBVA\nMonterrey (NL)",
     "TimeCasa": "RSA",
     "TimeFora": "KOR",
-    "Data": "24/06"
+    "Data": "25/06"
   },
-
   {
     "Grupo": "B",
     "HorarioH": 20,
@@ -88,7 +87,7 @@
     "Local": "BC Place\nVancouver (BC)",
     "TimeCasa": "CAN",
     "TimeFora": "QAT",
-    "Data": "18/06"
+    "Data": "19/06"
   },
   {
     "Grupo": "B",
@@ -108,7 +107,6 @@
     "TimeFora": "QAT",
     "Data": "24/06"
   },
-
   {
     "Grupo": "C",
     "HorarioH": 23,
@@ -125,7 +123,7 @@
     "Local": "Gillette Stadium\nFoxborough (MA)",
     "TimeCasa": "HAI",
     "TimeFora": "SCO",
-    "Data": "13/06"
+    "Data": "14/06"
   },
   {
     "Grupo": "C",
@@ -143,7 +141,7 @@
     "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
     "TimeCasa": "BRA",
     "TimeFora": "HAI",
-    "Data": "19/06"
+    "Data": "20/06"
   },
   {
     "Grupo": "C",
@@ -163,7 +161,6 @@
     "TimeFora": "HAI",
     "Data": "24/06"
   },
-
   {
     "Grupo": "D",
     "HorarioH": 5,
@@ -171,7 +168,7 @@
     "Local": "SoFi Stadium\nInglewood (CA)",
     "TimeCasa": "USA",
     "TimeFora": "PAR",
-    "Data": "12/06"
+    "Data": "13/06"
   },
   {
     "Grupo": "D",
@@ -207,7 +204,7 @@
     "Local": "SoFi Stadium\nInglewood (CA)",
     "TimeCasa": "TBD_D",
     "TimeFora": "USA",
-    "Data": "25/06"
+    "Data": "26/06"
   },
   {
     "Grupo": "D",
@@ -216,9 +213,8 @@
     "Local": "Levi's Stadium\nSanta Clara (CA)",
     "TimeCasa": "PAR",
     "TimeFora": "AUS",
-    "Data": "25/06"
+    "Data": "26/06"
   },
-
   {
     "Grupo": "E",
     "HorarioH": 19,
@@ -235,7 +231,7 @@
     "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
     "TimeCasa": "CIV",
     "TimeFora": "ECU",
-    "Data": "14/06"
+    "Data": "15/06"
   },
   {
     "Grupo": "E",
@@ -253,7 +249,7 @@
     "Local": "Arrowhead Stadium\nKansas City (MO)",
     "TimeCasa": "ECU",
     "TimeFora": "CUW",
-    "Data": "20/06"
+    "Data": "21/06"
   },
   {
     "Grupo": "E",
@@ -273,7 +269,6 @@
     "TimeFora": "CIV",
     "Data": "25/06"
   },
-
   {
     "Grupo": "F",
     "HorarioH": 22,
@@ -290,7 +285,7 @@
     "Local": "Estadio BBVA\nMonterrey (NL)",
     "TimeCasa": "TBD_F",
     "TimeFora": "TUN",
-    "Data": "14/06"
+    "Data": "15/06"
   },
   {
     "Grupo": "F",
@@ -317,7 +312,7 @@
     "Local": "AT&T Stadium\nArlington (TX)",
     "TimeCasa": "JPN",
     "TimeFora": "TBD_F",
-    "Data": "25/06"
+    "Data": "26/06"
   },
   {
     "Grupo": "F",
@@ -326,9 +321,8 @@
     "Local": "Arrowhead Stadium\nKansas City (MO)",
     "TimeCasa": "TUN",
     "TimeFora": "NED",
-    "Data": "25/06"
+    "Data": "26/06"
   },
-
   {
     "Grupo": "G",
     "HorarioH": 23,
@@ -345,7 +339,7 @@
     "Local": "SoFi Stadium\nInglewood (CA)",
     "TimeCasa": "IRN",
     "TimeFora": "NZL",
-    "Data": "15/06"
+    "Data": "16/06"
   },
   {
     "Grupo": "G",
@@ -363,7 +357,7 @@
     "Local": "BC Place\nVancouver (BC)",
     "TimeCasa": "NZL",
     "TimeFora": "EGY",
-    "Data": "21/06"
+    "Data": "22/06"
   },
   {
     "Grupo": "G",
@@ -383,7 +377,6 @@
     "TimeFora": "BEL",
     "Data": "26/06"
   },
-
   {
     "Grupo": "H",
     "HorarioH": 17,
@@ -427,7 +420,7 @@
     "Local": "NRG Stadium\nHouston (TX)",
     "TimeCasa": "CPV",
     "TimeFora": "KSA",
-    "Data": "26/06"
+    "Data": "27/06"
   },
   {
     "Grupo": "H",
@@ -436,9 +429,8 @@
     "Local": "Estadio Akron\nGuadalajara (JAL)",
     "TimeCasa": "URU",
     "TimeFora": "ESP",
-    "Data": "26/06"
+    "Data": "27/06"
   },
-
   {
     "Grupo": "I",
     "HorarioH": 20,
@@ -473,7 +465,7 @@
     "Local": "MetLife Stadium\nEast Rutherford (NJ)",
     "TimeCasa": "NOR",
     "TimeFora": "SEN",
-    "Data": "22/06"
+    "Data": "23/06"
   },
   {
     "Grupo": "I",
@@ -493,7 +485,6 @@
     "TimeFora": "TBD_I",
     "Data": "26/06"
   },
-
   {
     "Grupo": "J",
     "HorarioH": 3,
@@ -501,7 +492,7 @@
     "Local": "Arrowhead Stadium\nKansas City (MO)",
     "TimeCasa": "ARG",
     "TimeFora": "ALG",
-    "Data": "16/06"
+    "Data": "17/06"
   },
   {
     "Grupo": "J",
@@ -537,7 +528,7 @@
     "Local": "Arrowhead Stadium\nKansas City (MO)",
     "TimeCasa": "ALG",
     "TimeFora": "AUT",
-    "Data": "27/06"
+    "Data": "28/06"
   },
   {
     "Grupo": "J",
@@ -546,9 +537,8 @@
     "Local": "AT&T Stadium\nArlington (TX)",
     "TimeCasa": "JOR",
     "TimeFora": "ARG",
-    "Data": "27/06"
+    "Data": "28/06"
   },
-
   {
     "Grupo": "K",
     "HorarioH": 19,
@@ -565,7 +555,7 @@
     "Local": "Estadio Azteca\nMexico City (CDMX)",
     "TimeCasa": "UZB",
     "TimeFora": "COL",
-    "Data": "17/06"
+    "Data": "18/06"
   },
   {
     "Grupo": "K",
@@ -583,7 +573,7 @@
     "Local": "Estadio Akron\nGuadalajara (JAL)",
     "TimeCasa": "COL",
     "TimeFora": "TBD_K",
-    "Data": "23/06"
+    "Data": "24/06"
   },
   {
     "Grupo": "K",
@@ -592,7 +582,7 @@
     "Local": "Hard Rock Stadium\nMiami Gardens (FL)",
     "TimeCasa": "COL",
     "TimeFora": "POR",
-    "Data": "27/06"
+    "Data": "28/06"
   },
   {
     "Grupo": "K",
@@ -601,9 +591,8 @@
     "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
     "TimeCasa": "TBD_K",
     "TimeFora": "UZB",
-    "Data": "27/06"
+    "Data": "28/06"
   },
-
   {
     "Grupo": "L",
     "HorarioH": 22,
@@ -620,7 +609,7 @@
     "Local": "BMO Field\nToronto (ON)",
     "TimeCasa": "GHA",
     "TimeFora": "PAN",
-    "Data": "17/06"
+    "Data": "18/06"
   },
   {
     "Grupo": "L",
@@ -638,7 +627,7 @@
     "Local": "BMO Field\nToronto (ON)",
     "TimeCasa": "PAN",
     "TimeFora": "CRO",
-    "Data": "23/06"
+    "Data": "24/06"
   },
   {
     "Grupo": "L",
