@@ -46181,7 +46181,7 @@ r=k.at.h(0,k.f)
 r.toString
 q=A.j(k.a.c)
 p=t.N
-q=A.S(["Portugu\xeas \ud83c\udde7\ud83c\uddf7","\ud83c\udde7\ud83c\uddf7 Bem-vinda/o, "+q+"! Primeiramente, nos conte seu time favorito (aquele que voc\xea vai torcer, n\xe3o quem acha que vai ganhar!).","English \ud83c\uddfa\ud83c\uddf8","\ud83c\uddfa\ud83c\uddf8 Welcome, "+q+"! First of all, tell us your favorite team (the one you will cheer for, not the one you think is going to win!).","Deutsch \ud83c\udde9\ud83c\uddea","\ud83c\udde9\ud83c\uddea Willkommen, "+q+"! Zuerst, verrate uns dein Lieblingsteam (das, dass du unterst\xfctzt, nicht das, vom dem du denkst, dass es gewinnen wird)."],p,p).h(0,k.f)
+q=A.S(["Portugu\xeas \ud83c\udde7\ud83c\uddf7",q+", bem-vinda/o ao Bol\xe3o do Gamma 2026! Primeiramente, nos conte seu time favorito (aquele que voc\xea vai torcer, n\xe3o quem acha que vai ganhar!).","English \ud83c\uddfa\ud83c\uddf8",q+", welcome to the Bol\xe3o do Gamma 2026! First of all, tell us your favorite team (the one you will cheer for, not the one you think is going to win!).","Deutsch \ud83c\udde9\ud83c\uddea",q+", wilkommen zu Bol\xe3o do Gamma 2026! Zuerst, verrate uns dein Lieblingsteam (das, dass du unterst\xfctzt, nicht das, vom dem du denkst, dass es gewinnen wird)."],p,p).h(0,k.f)
 q.toString
 o=k.r
 if(o!=null&&!B.b.t(i,o))k.r=null
