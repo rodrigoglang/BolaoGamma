@@ -47398,15 +47398,15 @@ s=this.r.gL()
 if(s!=null)s.Zn(A.ax9(a).b)},
 gpz(){var s,r=this.e
 r===$&&A.b()
-if(r==="DE")r=A.a(["Tipps","Zusammenf.","Tabelle","Live","Verlauf"],t.s)
+if(r==="DE")r=A.a(["Tipps","Tabelle","Live","Teilnehmer","F\xfcr Nerds"],t.s)
 else{s=t.s
-r=r==="EN"?A.a(["Predictions","Summary","Standings","Live","History"],s):A.a(["Palpites","Resumo","Classifica\xe7\xe3o","Ao vivo","Hist\xf3rico"],s)}return r},
+r=r==="EN"?A.a(["Predictions","Standings","Live","Participants","For nerds"],s):A.a(["Palpites","Classifica\xe7\xe3o","Ao vivo","Participantes","Para nerds"],s)}return r},
 a4z(a){var s,r,q,p=this,o=null
 switch(a){case 0:s=p.a.c
 r=p.e
 r===$&&A.b()
 return new A.mK(s,r,A.ax9(p.f).b,p.r)
-default:s=A.a8Y(B.He,B.ef,o,48)
+default:s=A.a8Y(B.Hg,B.ef,o,48)
 r=A.ah(p.gpz()[a],o,o,o,A.fq(o,o,B.fE,o,o,o,o,o,o,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 q=p.e
 q===$&&A.b()
@@ -47480,15 +47480,15 @@ g=t.p
 n=A.d3(A.a([A.ah(j.a.c,i,i,i,A.fq(i,i,s,i,i,i,i,i,i,i,i,16,i,i,B.bg,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.ah("Bol\xe3o do Gamma 2026 - by Eskeleto",i,i,i,A.fq(i,i,A.V(191,n>>>16&255,n>>>8&255,n&255),i,i,i,i,i,i,i,i,11,i,i,B.m,i,i,!0,i,i,i,i,i,i,i,i),i,i)],g),B.V,i,B.C,B.a1)
 n=A.ayI(A.a([new A.ua(new A.ao9(),j.gMg(),"",new A.bs(B.nO,A.dI(A.a([A.ah(r,i,i,i,B.a12,i,i),B.Hz],g),B.V,B.C,B.ar,i),i),i,t.iX)],g),!0,n)
 s=A.ah(q,i,i,i,B.AD,i,i)
-l=A.Mg(i,B.HB,new A.aoa(j,a),A.ah(p,i,i,i,i,i,i),i)
+l=A.Mg(i,B.HD,new A.aoa(j,a),A.ah(p,i,i,i,i,i,i),i)
 k=j.e
 if(k==="DE")k="Regeln"
 else k=k==="EN"?"Rules":"Regras"
-g=A.BU(!0,A.d3(A.a([new A.bs(B.Gp,s,i),B.nH,l,A.Mg(i,B.HC,new A.aob(j,a),A.ah(k,i,i,i,i,i,i),i),A.Mg(i,B.HE,new A.aoc(j,a),A.ah(o,i,i,i,i,i,i),i)],g),B.aQ,i,B.C,B.a1),B.aj,!0)
+g=A.BU(!0,A.d3(A.a([new A.bs(B.Gp,s,i),B.nH,l,A.Mg(i,B.HE,new A.aob(j,a),A.ah(k,i,i,i,i,i,i),i),A.Mg(i,B.HG,new A.aoc(j,a),A.ah(o,i,i,i,i,i,i),i)],g),B.aQ,i,B.C,B.a1),B.aj,!0)
 k=j.d
 k=A.aAw(B.bK,A.lh(5,j.ga4y(),t.l7),k)
 l=j.d
-s=A.a([A.J9(B.Hx,j.gpz()[0]),A.J9(B.Hv,j.gpz()[1]),A.J9(B.HF,j.gpz()[2]),A.J9(B.HD,j.gpz()[3]),A.J9(B.HG,j.gpz()[4])],t.ur)
+s=A.a([A.J9(B.Hx,j.gpz()[0]),A.J9(B.Hv,j.gpz()[1]),A.J9(B.HF,j.gpz()[2]),A.J9(B.HA,j.gpz()[3]),A.J9(B.HB,j.gpz()[4])],t.ur)
 return new A.qD(m,A.aw2(n,k,new A.xA(s,new A.aod(j),l,i,i),new A.KK(g,i)),i)}}
 A.ao0.prototype={
 $0(){var s=this.b
@@ -48441,7 +48441,7 @@ f=a6.n8()
 f=A.ec(f,0,A.ew(8,"count",t.S),A.a0(f).c)
 e=f.$ti.i("a5<ay.E,k>")
 e=A.hX(new A.fh(new A.zO(a,A.a3(new A.a5(f,new A.a6y(),e),!0,e.i("ay.E")),a7),a6.aC),a7,a7)
-f=A.a8Y(a6.gEG()?B.Hq:B.Hf,a7,a7,a7)
+f=A.a8Y(a6.gEG()?B.Hr:B.Hh,a7,a7,a7)
 d=a6.w
 if(d==="DE")d="Teilen"
 else d=d==="EN"?"Share":"Compartilhar"
@@ -49082,7 +49082,7 @@ o=A.mI(o.c,1)
 s=q.f
 s===$&&A.b()
 r=t.p
-r=A.a([A.mX(!1,p,!0,A.d4(p,A.dI(A.a([o,A.aw0(B.HA,s)],r),B.V,B.C,B.a1,p),B.n,m,p,p,p,p,B.nQ,p),p,!0,p,p,p,p,p,p,p,p,p,p,q.gah0(),p,p,p,p,p,p,p)],r)
+r=A.a([A.mX(!1,p,!0,A.d4(p,A.dI(A.a([o,A.aw0(B.HC,s)],r),B.V,B.C,B.a1,p),B.n,m,p,p,p,p,B.nQ,p),p,!0,p,p,p,p,p,p,p,p,p,p,q.gah0(),p,p,p,p,p,p,p)],r)
 o=q.d
 o===$&&A.b()
 if(o)B.b.W(r,q.a.d)
@@ -97528,43 +97528,43 @@ B.c5=new A.zo(2,"translucent")
 B.dp=new A.a8Z(0,"start")
 B.Hb=new A.mS(null)
 B.oj=new A.d6(57490,!0)
-B.He=new A.d6(57737,!1)
-B.Hf=new A.d6(57744,!1)
+B.Hg=new A.d6(57737,!1)
+B.Hh=new A.d6(57744,!1)
 B.ol=new A.d6(58332,!1)
 B.Hm=new A.d6(58372,!1)
-B.Hq=new A.d6(58771,!1)
+B.Hr=new A.d6(58771,!1)
 B.Ht=new A.c4(null,null,null,null,null,B.k,null,null,null)
 B.Hu=new A.c4(null,null,null,null,null,B.r,null,null,null)
 B.om=new A.c4(24,0,400,0,48,B.r,1,null,!1)
-B.Hh=new A.d6(57900,!1)
-B.Hv=new A.e5(B.Hh,null,null,null,null)
-B.Hg=new A.d6(57862,!1)
-B.k7=new A.e5(B.Hg,null,null,null,null)
+B.Hj=new A.d6(57900,!1)
+B.Hv=new A.e5(B.Hj,null,null,null,null)
+B.Hi=new A.d6(57862,!1)
+B.k7=new A.e5(B.Hi,null,null,null,null)
 B.Hp=new A.d6(58727,!1)
 B.Hw=new A.e5(B.Hp,null,null,null,null)
 B.Hs=new A.d6(984310,!1)
 B.Hx=new A.e5(B.Hs,null,null,null,null)
+B.Hc=new A.d6(57411,!1)
+B.HA=new A.e5(B.Hc,null,null,null,null)
 B.ok=new A.d6(57496,!1)
 B.Hy=new A.e5(B.ok,null,null,null,null)
 B.Hz=new A.e5(B.ok,18,null,null,null)
-B.Hi=new A.d6(57926,!1)
-B.HA=new A.e5(B.Hi,null,null,null,null)
+B.Hd=new A.d6(57475,!1)
+B.HB=new A.e5(B.Hd,null,null,null,null)
+B.Hk=new A.d6(57926,!1)
+B.HC=new A.e5(B.Hk,null,null,null,null)
 B.Hn=new A.d6(58519,!1)
-B.HB=new A.e5(B.Hn,null,null,null,null)
+B.HD=new A.e5(B.Hn,null,null,null,null)
 B.Ho=new A.d6(58695,!1)
-B.HC=new A.e5(B.Ho,null,null,null,null)
-B.Hc=new A.d6(57495,!1)
-B.on=new A.e5(B.Hc,null,null,null,null)
-B.Hr=new A.d6(58866,!1)
-B.HD=new A.e5(B.Hr,null,null,null,null)
-B.Hk=new A.d6(58173,!1)
-B.HE=new A.e5(B.Hk,null,null,null,null)
-B.Hl=new A.d6(58223,!1)
-B.HF=new A.e5(B.Hl,null,null,null,null)
-B.Hj=new A.d6(58132,!1)
-B.HG=new A.e5(B.Hj,null,null,null,null)
-B.Hd=new A.d6(57504,!1)
-B.oo=new A.e5(B.Hd,null,null,null,null)
+B.HE=new A.e5(B.Ho,null,null,null,null)
+B.He=new A.d6(57495,!1)
+B.on=new A.e5(B.He,null,null,null,null)
+B.Hq=new A.d6(58742,!1)
+B.HF=new A.e5(B.Hq,null,null,null,null)
+B.Hl=new A.d6(58173,!1)
+B.HG=new A.e5(B.Hl,null,null,null,null)
+B.Hf=new A.d6(57504,!1)
+B.oo=new A.e5(B.Hf,null,null,null,null)
 B.HN=new A.ts(0,"repeat")
 B.HO=new A.ts(1,"repeatX")
 B.HP=new A.ts(2,"repeatY")
