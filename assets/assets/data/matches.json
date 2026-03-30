@@ -3,7 +3,7 @@
     "Grupo": "A",
     "HorarioH": 21,
     "HorarioM": 0,
-    "Local": "Estadio Azteca\nMexico City (CDMX)",
+    "Local": "Estadio Azteca\nCiudad de México (CDMX)",
     "TimeCasa": "MEX",
     "TimeFora": "RSA",
     "Data": "11/06"
@@ -39,7 +39,7 @@
     "Grupo": "A",
     "HorarioH": 3,
     "HorarioM": 0,
-    "Local": "Estadio Azteca\nMexico City (CDMX)",
+    "Local": "Estadio Azteca\nCiudad de México (CDMX)",
     "TimeCasa": "TBD_A",
     "TimeFora": "MEX",
     "Data": "25/06"
@@ -552,7 +552,7 @@
     "Grupo": "K",
     "HorarioH": 4,
     "HorarioM": 0,
-    "Local": "Estadio Azteca\nMexico City (CDMX)",
+    "Local": "Estadio Azteca\nCiudad de México (CDMX)",
     "TimeCasa": "UZB",
     "TimeFora": "COL",
     "Data": "18/06"
