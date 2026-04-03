@@ -14,7 +14,7 @@
     "HorarioM": 0,
     "Local": "Estadio Akron\nGuadalajara (JAL)",
     "TimeCasa": "KOR",
-    "TimeFora": "TBD_A",
+    "TimeFora": "CZE",
     "Data": "12/06"
   },
   {
@@ -22,7 +22,7 @@
     "HorarioH": 16,
     "HorarioM": 0,
     "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
-    "TimeCasa": "TBD_A",
+    "TimeCasa": "CZE",
     "TimeFora": "RSA",
     "Data": "18/06"
   },
@@ -40,7 +40,7 @@
     "HorarioH": 1,
     "HorarioM": 0,
     "Local": "Estadio Azteca\nMexico City (CDMX)",
-    "TimeCasa": "TBD_A",
+    "TimeCasa": "CZE",
     "TimeFora": "MEX",
     "Data": "25/06"
   },
@@ -59,7 +59,7 @@
     "HorarioM": 0,
     "Local": "BMO Field\nToronto (ON)",
     "TimeCasa": "CAN",
-    "TimeFora": "TBD_B",
+    "TimeFora": "BIH",
     "Data": "12/06"
   },
   {
@@ -77,7 +77,7 @@
     "HorarioM": 0,
     "Local": "SoFi Stadium\nInglewood (CA)",
     "TimeCasa": "SUI",
-    "TimeFora": "TBD_B",
+    "TimeFora": "BIH",
     "Data": "18/06"
   },
   {
@@ -103,7 +103,7 @@
     "HorarioH": 19,
     "HorarioM": 0,
     "Local": "Lumen Field\nSeattle (WA)",
-    "TimeCasa": "TBD_B",
+    "TimeCasa": "BIH",
     "TimeFora": "QAT",
     "Data": "24/06"
   },
@@ -176,7 +176,7 @@
     "HorarioM": 0,
     "Local": "BC Place\nVancouver (BC)",
     "TimeCasa": "AUS",
-    "TimeFora": "TBD_D",
+    "TimeFora": "TUR",
     "Data": "13/06"
   },
   {
@@ -193,7 +193,7 @@
     "HorarioH": 4,
     "HorarioM": 0,
     "Local": "Levi's Stadium\nSanta Clara (CA)",
-    "TimeCasa": "TBD_D",
+    "TimeCasa": "TUR",
     "TimeFora": "PAR",
     "Data": "19/06"
   },
@@ -202,7 +202,7 @@
     "HorarioH": 2,
     "HorarioM": 0,
     "Local": "SoFi Stadium\nInglewood (CA)",
-    "TimeCasa": "TBD_D",
+    "TimeCasa": "TUR",
     "TimeFora": "USA",
     "Data": "26/06"
   },
@@ -283,7 +283,7 @@
     "HorarioH": 2,
     "HorarioM": 0,
     "Local": "Estadio BBVA\nMonterrey (NL)",
-    "TimeCasa": "TBD_F",
+    "TimeCasa": "SWE",
     "TimeFora": "TUN",
     "Data": "15/06"
   },
@@ -293,7 +293,7 @@
     "HorarioM": 0,
     "Local": "NRG Stadium\nHouston (TX)",
     "TimeCasa": "NED",
-    "TimeFora": "TBD_F",
+    "TimeFora": "SWE",
     "Data": "20/06"
   },
   {
@@ -311,7 +311,7 @@
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
     "TimeCasa": "JPN",
-    "TimeFora": "TBD_F",
+    "TimeFora": "SWE",
     "Data": "25/06"
   },
   {
@@ -445,7 +445,7 @@
     "HorarioH": 22,
     "HorarioM": 0,
     "Local": "Gillette Stadium\nFoxborough (MA)",
-    "TimeCasa": "TBD_I",
+    "TimeCasa": "IRQ",
     "TimeFora": "NOR",
     "Data": "16/06"
   },
@@ -455,7 +455,7 @@
     "HorarioM": 0,
     "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
     "TimeCasa": "FRA",
-    "TimeFora": "TBD_I",
+    "TimeFora": "IRQ",
     "Data": "22/06"
   },
   {
@@ -482,7 +482,7 @@
     "HorarioM": 0,
     "Local": "BMO Field\nToronto (ON)",
     "TimeCasa": "SEN",
-    "TimeFora": "TBD_I",
+    "TimeFora": "IRQ",
     "Data": "26/06"
   },
   {
@@ -545,7 +545,7 @@
     "HorarioM": 0,
     "Local": "NRG Stadium\nHouston (TX)",
     "TimeCasa": "POR",
-    "TimeFora": "TBD_K",
+    "TimeFora": "COD",
     "Data": "17/06"
   },
   {
@@ -572,7 +572,7 @@
     "HorarioM": 0,
     "Local": "Estadio Akron\nGuadalajara (JAL)",
     "TimeCasa": "COL",
-    "TimeFora": "TBD_K",
+    "TimeFora": "COD",
     "Data": "24/06"
   },
   {
@@ -589,7 +589,7 @@
     "HorarioH": 23,
     "HorarioM": 30,
     "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
-    "TimeCasa": "TBD_K",
+    "TimeCasa": "COD",
     "TimeFora": "UZB",
     "Data": "27/06"
   },
