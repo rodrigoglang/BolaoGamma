@@ -50898,7 +50898,7 @@ a6r(){var s,r=this.a.c
 if(r==="EN")s="EN"
 else s=r==="DE"?"DE":"PT"
 r=t.Jm
-return A.iM(A.be(A.a4(new A.a2(A.a(["https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/charts/Campeao-"+s+".png","https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/charts/ViceCampeao-"+s+".png"],t.s),new A.adc(this),r),!0,r.i("ay.E")),B.m,B.j,B.o),null,B.J4,B.a6)}}
+return A.iM(A.be(A.a4(new A.a2(A.a(["https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/assets/assets/charts/Campeao-"+s+".png","https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/assets/assets/charts/ViceCampeao-"+s+".png"],t.s),new A.adc(this),r),!0,r.i("ay.E")),B.m,B.j,B.o),null,B.J4,B.a6)}}
 A.adh.prototype={
 $0(){},
 $S:0}
