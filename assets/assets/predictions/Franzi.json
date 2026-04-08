@@ -1,0 +1,87 @@
+{
+  "matches": {
+    "1": {
+      "ScoreA": 1,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "2": {
+      "ScoreA": 8,
+      "ScoreB": 8,
+      "Score": null,
+      "Cravado": null
+    },
+    "3": {
+      "ScoreA": 8,
+      "ScoreB": 9,
+      "Score": null,
+      "Cravado": null
+    },
+    "4": {
+      "ScoreA": 1,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "5": {
+      "ScoreA": 4,
+      "ScoreB": 8,
+      "Score": null,
+      "Cravado": null
+    },
+    "30": {
+      "ScoreA": 9,
+      "ScoreB": 5,
+      "Score": null,
+      "Cravado": null
+    },
+    "31": {
+      "ScoreA": 5,
+      "ScoreB": 8,
+      "Score": null,
+      "Cravado": null
+    },
+    "32": {
+      "ScoreA": 8,
+      "ScoreB": 89,
+      "Score": null,
+      "Cravado": null
+    },
+    "33": {
+      "ScoreA": 7,
+      "ScoreB": 4,
+      "Score": null,
+      "Cravado": null
+    },
+    "34": {
+      "ScoreA": 9,
+      "ScoreB": 9,
+      "Score": null,
+      "Cravado": null
+    },
+    "35": {
+      "ScoreA": 7,
+      "ScoreB": 7,
+      "Score": null,
+      "Cravado": null
+    }
+  },
+  "profile": {
+    "Campeao": null,
+    "Vice": null,
+    "Artilheiro": null,
+    "GrupoA": null,
+    "GrupoB": null,
+    "GrupoC": null,
+    "GrupoD": null,
+    "GrupoE": null,
+    "GrupoF": null,
+    "GrupoG": null,
+    "GrupoH": null,
+    "GrupoI": null,
+    "GrupoJ": null,
+    "GrupoK": null,
+    "GrupoL": null
+  }
+}
