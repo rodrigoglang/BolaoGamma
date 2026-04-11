@@ -50163,7 +50163,10 @@ a2=a1==="-1"
 a3=a1==="-2"
 if(a3)a4="FT"
 else if(a2)a4=""
-else{a6=a1.length!==0?a1+"'":"\u2013"
+else{if(a1==="-3")a6="HT"
+else if(a1==="-4")a6="ETHT"
+else if(a1==="-5")a6="PEN"
+else a6=a1.length!==0?a1+"'":"\u2013"
 a4=a6}return A.qU(new A.af4(a5,l,k,d+":"+c,a0,a,b,a2,!a2,a3,a4))}}
 A.afB.prototype={
 $0(){},
