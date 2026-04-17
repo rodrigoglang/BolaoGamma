@@ -52395,10 +52395,10 @@ else r=e==="EN"?"Overall":"Geral"
 r=A.u(r,j,j,j,j,j,j,j)
 q=t.lM
 if(s)p="Teams"
-else p=e==="EN"?"By teams":"Por equipes"
+else p=e==="EN"?"Teams":"Equipes"
 p=A.u(p,j,j,j,j,j,j,j)
-if(s)e="KI-Battle"
-else e=e==="EN"?"AI Battle":"Batalha das IAs"
+if(s)e="KI"
+else e=e==="EN"?"AIs":"IAs"
 s=t.S
 s=A.aJu(new A.aqN(k),A.b([new A.hw(0,j,r,q),new A.hw(1,j,p,q),new A.hw(2,j,A.u(e,j,j,j,j,j,j,j),q)],t.OV),A.cm([k.f],s),f,s)
 f=k.a
