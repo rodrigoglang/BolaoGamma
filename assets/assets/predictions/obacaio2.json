@@ -1,1 +1,63 @@
-{"matches": {"1": {"ScoreA": 54, "ScoreB": 498, "Score": 0, "Cravado": 0, "sigma": 365.3845232795575}, "2": {"ScoreA": 41, "ScoreB": 165, "Score": null, "Cravado": null, "sigma": 1113.872543706315}, "3": {"ScoreA": 4, "ScoreB": 5, "Score": null, "Cravado": null, "sigma": 2.213904471061053}, "4": {"ScoreA": 5, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 1.3276605523794078}, "5": {"ScoreA": 2, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 3.2497037994691786}}, "profile": {"Campeao": "\ud83c\udde8\ud83c\uddfc Cura\u00e7ao", "Vice": "\ud83c\udde8\ud83c\uddee Costa do Marfim", "Artilheiro": "Estev\u00e3o", "GrupoA": null, "GrupoA-pos": null, "GrupoB": null, "GrupoB-pos": null, "GrupoC": null, "GrupoC-pos": null, "GrupoD": null, "GrupoD-pos": null, "GrupoE": null, "GrupoE-pos": null, "GrupoF": null, "GrupoF-pos": null, "GrupoG": null, "GrupoG-pos": null, "GrupoH": null, "GrupoH-pos": null, "GrupoI": null, "GrupoI-pos": null, "GrupoJ": null, "GrupoJ-pos": null, "GrupoK": null, "GrupoK-pos": null, "GrupoL": null, "GrupoL-pos": null}, "Classico": {"Pts": 0, "RC": 0, "GC": 0, "C": 0, "VC": 0, "A": 0, "Pos-0": 8, "Pos": 13, "DeltaPos": 0, "Pos-1": 11, "Pos-2": 11, "Pos-3": 12, "Pos-4": 12, "Pos-5": 12, "Pos-6": 12, "Pos-7": 12, "Pos-8": 12, "Pos-9": 13, "Pos-10": 13, "Pos-11": 13, "Pos-12": 13, "Pos-13": 13, "Pos-14": 13, "Pos-15": 13, "Pos-16": 13, "Pos-17": 13, "Pos-18": 13, "Pos-19": 13, "Pos-20": 13, "Pos-21": 13, "Pos-22": 13, "Pos-23": 13}, "Fantasy": {"P": 0, "V": 1, "E": 4, "D": 2, "PC": 85, "J": 7, "Pts": 7, "Pos-1": 22, "Pos": 22, "DeltaPos": -1, "Pos-2": 22, "Pos-3": 20, "Pos-4": 23, "Pos-5": 21, "Pos-6": 21, "Pos-7": 22}}
+{
+  "matches": {
+    "1": {
+      "ScoreA": 54,
+      "ScoreB": 498,
+      "Score": null,
+      "Cravado": null
+    },
+    "2": {
+      "ScoreA": 41,
+      "ScoreB": 165,
+      "Score": null,
+      "Cravado": null
+    },
+    "3": {
+      "ScoreA": 4,
+      "ScoreB": 5,
+      "Score": null,
+      "Cravado": null
+    },
+    "4": {
+      "ScoreA": 5,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "5": {
+      "ScoreA": 2,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    }
+  },
+  "profile": {
+    "Campeao": "🇨🇼 Curaçao",
+    "Vice": "🇨🇮 Costa do Marfim",
+    "Artilheiro": "Estevão",
+    "GrupoA": null,
+    "GrupoA-pos": null,
+    "GrupoB": null,
+    "GrupoB-pos": null,
+    "GrupoC": null,
+    "GrupoC-pos": null,
+    "GrupoD": null,
+    "GrupoD-pos": null,
+    "GrupoE": null,
+    "GrupoE-pos": null,
+    "GrupoF": null,
+    "GrupoF-pos": null,
+    "GrupoG": null,
+    "GrupoG-pos": null,
+    "GrupoH": null,
+    "GrupoH-pos": null,
+    "GrupoI": null,
+    "GrupoI-pos": null,
+    "GrupoJ": null,
+    "GrupoJ-pos": null,
+    "GrupoK": null,
+    "GrupoK-pos": null,
+    "GrupoL": null,
+    "GrupoL-pos": null
+  }
+}
