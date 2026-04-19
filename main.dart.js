@@ -48533,8 +48533,7 @@ s=7
 return A.A($.eH().ht("assets/predictions/"+n.a.c+".json"),$async$uw)
 case 7:m=b
 l=t.P.a(B.aD.dj(0,m))
-j=t.nA.a(J.o(l,"matches"))
-j=n.q=j==null?l:j
+j=n.q=l
 p=2
 s=6
 break
