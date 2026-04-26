@@ -136,8 +136,8 @@
   },
   {
     "Grupo": "C",
-    "HorarioH": 1,
-    "HorarioM": 0,
+    "HorarioH": 0,
+    "HorarioM": 30,
     "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
     "TimeCasa": "BRA",
     "TimeFora": "HAI",
@@ -190,7 +190,7 @@
   },
   {
     "Grupo": "D",
-    "HorarioH": 4,
+    "HorarioH": 3,
     "HorarioM": 0,
     "Local": "Levi's Stadium\nSanta Clara (CA)",
     "TimeCasa": "TUR",
