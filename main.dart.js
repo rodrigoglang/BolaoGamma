@@ -51422,7 +51422,7 @@ q=t.Jm
 l=A.Y(new A.a0(s,new A.ajN(o),q),q.i("ap.E"))
 return A.aB(A.b([new A.ad(B.lx,k,n),A.bo(A.eq(A.aB(l,B.j,B.i,B.l),n,B.lt,B.S),1)],r),B.j,B.i,B.l)},
 a9L(){var s=this.gyZ(),r=t.Jm
-r=A.Y(new A.a0(A.b(["https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/assets/charts/Campeao-"+s+".png","https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/assets/charts/ViceCampeao-"+s+".png"],t.s),new A.ajk(this),r),r.i("ap.E"))
+r=A.Y(new A.a0(A.b(["https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/assets/charts/Campeao-"+s+".png","https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/assets/charts/ViceCampeao-"+s+".png","https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/assets/charts/Artilheiro-"+s+".png"],t.s),new A.ajk(this),r),r.i("ap.E"))
 return A.eq(A.aB(r,B.j,B.i,B.l),null,B.q6,B.S)},
 aa3(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=e.gyZ(),b=J.dD(12,t.N)
 for(s=0;s<12;++s)b[s]=A.cA(65+s)
