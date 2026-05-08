@@ -1,11 +1,11 @@
 {
-    "name": "bolaodogamma_v0",
-    "short_name": "bolaodogamma_v0",
+    "name": "Bolão do Gamma 2026",
+    "short_name": "Bolão do Gamma 2026",
     "start_url": ".",
-    "display": "standalone",
+    "display": "browser",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "O bolão dos bolões.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
