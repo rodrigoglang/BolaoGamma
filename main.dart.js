@@ -17051,7 +17051,7 @@ _.z=k
 _.Q=l
 _.as=m},
 a0o:function a0o(){},
-aod(a,b,c,d,e){return new A.x2(b,c,a,d,null,e.i("x2<0>"))},
+aod(a,b,c,d,e,f){return new A.x2(b,c,a,e,d,null,f.i("x2<0>"))},
 aoC(a,b,c,d){var s,r,q,p,o,n,m,l=null
 A:{s=B.d.aq(25.5)
 r=A.X(s,c.n()>>>16&255,c.n()>>>8&255,c.n()&255)
@@ -17071,13 +17071,14 @@ return new A.et(A.O([B.D,b,B.N,c,B.fm,a],t.Ag,t._),t.GC)},
 fL:function fL(a,b,c){this.a=a
 this.c=b
 this.$ti=c},
-x2:function x2(a,b,c,d,e,f){var _=this
+x2:function x2(a,b,c,d,e,f,g){var _=this
 _.c=a
 _.e=b
 _.f=c
 _.y=d
-_.a=e
-_.$ti=f},
+_.z=e
+_.a=f
+_.$ti=g},
 ET:function ET(a,b){var _=this
 _.e=_.d=!1
 _.f=a
@@ -52386,7 +52387,7 @@ o=A.p("Fantasy",k,k,k,k,k,k,k)
 if(r)s="Teams"
 else s=s==="EN"?"Teams":"Equipes"
 r=t.S
-r=A.bn(A.aod(new A.asV(l),A.b([new A.fL(0,q,p),new A.fL(1,o,p),new A.fL(2,A.p(s,k,k,k,k,k,k,k),p)],t.OV),A.cn([l.d],r),h,r),1)
+r=A.bn(A.aod(new A.asV(l),A.b([new A.fL(0,q,p),new A.fL(1,o,p),new A.fL(2,A.p(s,k,k,k,k,k,k,k),p)],t.OV),A.cn([l.d],r),!1,h,r),1)
 h=A.cm(B.iP,l.a.d,k,k)
 s=t.p
 n=new A.ab(B.Lf,A.au(A.b([r,B.ap,A.hj(k,B.ER,k,k,h,20,k,l.gann(),B.af,k,k,"Info")],s),B.j,B.i,B.l,0,k),k)
@@ -52456,7 +52457,7 @@ if(a2)f="Spiele"
 else f=f==="EN"?"Matches":"Tabela"
 a2=t.S
 a5=t.p
-c9=A.b([new A.ab(B.ly,A.aod(new A.art(b9),A.b([new A.fL(0,a3,a4),new A.fL(1,A.p(f,c0,c0,c0,c0,c0,c0,c0),a4)],t.OV),A.cn([b9.e],a2),c9,a2),c0)],a5)
+c9=A.b([new A.ab(B.ly,A.aod(new A.art(b9),A.b([new A.fL(0,a3,a4),new A.fL(1,A.p(f,c0,c0,c0,c0,c0,c0,c0),a4)],t.OV),A.cn([b9.e],a2),!0,c9,a2),c0)],a5)
 f=b9.e
 a3=b9.a
 if(f===1){f=a3.d
@@ -53379,7 +53380,7 @@ o=t.lM
 if(q)r="KI"
 else r=r==="EN"?"AIs":"IAs"
 q=t.S
-q=A.aod(new A.ar1(i),A.b([new A.fL(0,p,o),new A.fL(1,A.p(r,h,h,h,h,h,h,h),o)],t.OV),A.cn([i.f],q),a2,q)
+q=A.aod(new A.ar1(i),A.b([new A.fL(0,p,o),new A.fL(1,A.p(r,h,h,h,h,h,h,h),o)],t.OV),A.cn([i.f],q),!0,a2,q)
 a2=i.a
 o=a2.d
 r=A.cm(B.fP,o,h,16)
@@ -53432,7 +53433,7 @@ o=t.lM
 if(q)r="Spiele"
 else r=r==="EN"?"Matches":"Tabela"
 q=t.S
-a3=A.aod(new A.arX(c),A.b([new A.fL(0,p,o),new A.fL(1,A.p(r,b,b,b,b,b,b,b),o)],t.OV),A.cn([c.r],q),a3,q)
+a3=A.aod(new A.arX(c),A.b([new A.fL(0,p,o),new A.fL(1,A.p(r,b,b,b,b,b,b,b),o)],t.OV),A.cn([c.r],q),!0,a3,q)
 o=c.a
 r=o.d
 p=A.cm(B.fP,r,b,16)
@@ -69446,56 +69447,57 @@ if(!s){r=A.cn([a],p.$ti.c)
 q=A.c5()
 q.sdF(r)
 if(!A.ny(q.aZ(),p.a.e))p.a.f.$1(q.aZ())}},
-J(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=this,a6=null
-a7.a6(t.eh)
-s=A.a1(a7).az
-r=new A.aEB(a7,a6,a6)
-q=a7.a6(t.I).w
-p=new A.aoy(a5,new A.aou(a5,s,r))
+J(a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=this,a7=null
+a8.a6(t.eh)
+s=A.a1(a8).az
+r=new A.aEB(a8,a7,a7)
+q=a8.a6(t.I).w
+p=new A.aoy(a6,new A.aou(a6,s,r))
 o=new A.aoA()
-n=o.$1(a5.a.y)
+n=o.$1(a6.a.y)
 m=o.$1(s.a).aU(o.$1(r.giw(0)))
-a5.a.toString
-l=t.KX
-k=p.$1$1(new A.aol(),l)
-if(k==null)k=B.dc
-j=p.$1$2(new A.aom(),B.Ce,l)
+if(a6.a.z)l=B.qM
+else l=a7
+k=t.KX
+j=p.$1$1(new A.aol(),k)
 if(j==null)j=B.dc
-l=t.oI
-i=p.$1$1(new A.aon(),l)
-if(i==null)i=B.v
-h=p.$1$2(new A.aoo(),B.Ce,l)
+i=p.$1$2(new A.aom(),B.Ce,k)
+if(i==null)i=B.dc
+k=t.oI
+h=p.$1$1(new A.aon(),k)
 if(h==null)h=B.v
-g=k.iQ(i)
+g=p.$1$2(new A.aoo(),B.Ce,k)
+if(g==null)g=B.v
 f=j.iQ(h)
-l=n.CW
-e=l==null?m.gdW():l
-if(e==null)e=A.a1(a7).Q
-d=p.$1$1(new A.aop(),t.pc)
-if(d==null)d=B.af
-l=n.cx
-c=l==null?m.gfZ():l
-if(c==null)c=A.a1(a7).f
-l=p.$1$1(new A.aoq(),t.p8)
-b=l==null?a6:l.r
-if(b==null)b=20
-l=a5.a.c
-a=A.a_(l).i("a0<1,e>")
-a0=A.Z(new A.a0(l,new A.aoe(a5,B.qM,n,a7),a),a.i("ap.E"))
-l=new A.j(e.a,e.b).al(0,4).b
-a1=Math.max(b+(d.gcD(d)+d.gcK(d)+l*2),40+l)
-switch(c.a){case 1:l=0
+e=i.iQ(g)
+k=n.CW
+d=k==null?m.gdW():k
+if(d==null)d=A.a1(a8).Q
+c=p.$1$1(new A.aop(),t.pc)
+if(c==null)c=B.af
+k=n.cx
+b=k==null?m.gfZ():k
+if(b==null)b=A.a1(a8).f
+k=p.$1$1(new A.aoq(),t.p8)
+a=k==null?a7:k.r
+if(a==null)a=20
+k=a6.a.c
+a0=A.a_(k).i("a0<1,e>")
+a1=A.Z(new A.a0(k,new A.aoe(a6,l,n,a8),a0),a0.i("ap.E"))
+k=new A.j(d.a,d.b).al(0,4).b
+a2=Math.max(a+(c.gcD(c)+c.gcK(c)+k*2),40+k)
+switch(b.a){case 1:k=0
 break
-case 0:l=Math.max(0,48+l-a1)
+case 0:k=Math.max(0,48+k-a2)
 break
-default:l=a6}a=p.$1$1(new A.aor(),t.PM)
-a.toString
-a2=t._
-a3=p.$1$1(new A.aos(),a2)
-a2=p.$1$1(new A.aot(),a2)
-a4=a5.a
-a4=a4.c
-return A.fS(!1,B.T,!0,a6,A.aRg(new A.ab(B.af,new A.JI(a4,g,f,B.ai,q,l,!1,a0,a6,a5.$ti.i("JI<1>")),a6),new A.xv(m)),B.o,a6,a,a6,a3,a6,a2,a6,B.db)},
+default:k=a7}a0=p.$1$1(new A.aor(),t.PM)
+a0.toString
+a3=t._
+a4=p.$1$1(new A.aos(),a3)
+a3=p.$1$1(new A.aot(),a3)
+a5=a6.a
+a5=a5.c
+return A.fS(!1,B.T,!0,a7,A.aRg(new A.ab(B.af,new A.JI(a5,f,e,B.ai,q,k,!1,a1,a7,a6.$ti.i("JI<1>")),a7),new A.xv(m)),B.o,a7,a0,a7,a4,a7,a3,a7,B.db)},
 m(){var s,r
 for(s=this.f,s=new A.cS(s,s.r,s.e);s.v();){r=s.d
 r.a7$=$.aF()
@@ -69546,8 +69548,7 @@ return A.uH(c,e,s,p,l,d,s,s,o,s,j,i,s,s,h,n,k,s,B.adZ,s,r?s:a.gh8(),m,f,q,g)},
 $S:393}
 A.aoe.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=a.c,g=j.a,f=g.a.e.l(0,a.a)
-if(f)g.a.toString
-if(f)s=j.b
+if(f&&g.a.z)s=j.b
 else s=i
 r=g.f.bQ(0,a,new A.aoh())
 r.dg(0,B.N,f)
