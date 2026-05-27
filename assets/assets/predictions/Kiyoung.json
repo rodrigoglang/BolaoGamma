@@ -1,1 +1,32 @@
-{"matches": {}, "profile": {"Campeao": null, "Vice": "\ud83c\udde8\ud83c\udde6 Canada", "Artilheiro": "\ud83c\uddf2\ud83c\uddfd A. Gonz\u00e1lez", "GrupoA": null, "GrupoA-pos": null, "GrupoB": null, "GrupoB-pos": null, "GrupoC": null, "GrupoC-pos": null, "GrupoD": null, "GrupoD-pos": null, "GrupoE": null, "GrupoE-pos": null, "GrupoF": null, "GrupoF-pos": null, "GrupoG": null, "GrupoG-pos": null, "GrupoH": null, "GrupoH-pos": null, "GrupoI": null, "GrupoI-pos": null, "GrupoJ": null, "GrupoJ-pos": null, "GrupoK": null, "GrupoK-pos": null, "GrupoL": null, "GrupoL-pos": null}, "Fantasy": {"P": 0, "V": 0, "E": 0, "D": 0, "PC": 0, "J": 0}, "Classico": {"Pts": 0, "RC": 0, "GC": 0, "C": 0, "VC": 0, "A": 0}}
+{
+  "matches": {},
+  "profile": {
+    "Campeao": null,
+    "Vice": "🇨🇦 Canada",
+    "Artilheiro": "🇲🇽 A. González",
+    "GrupoA": null,
+    "GrupoA-pos": null,
+    "GrupoB": null,
+    "GrupoB-pos": null,
+    "GrupoC": null,
+    "GrupoC-pos": null,
+    "GrupoD": null,
+    "GrupoD-pos": null,
+    "GrupoE": null,
+    "GrupoE-pos": null,
+    "GrupoF": null,
+    "GrupoF-pos": null,
+    "GrupoG": null,
+    "GrupoG-pos": null,
+    "GrupoH": null,
+    "GrupoH-pos": null,
+    "GrupoI": null,
+    "GrupoI-pos": null,
+    "GrupoJ": null,
+    "GrupoJ-pos": null,
+    "GrupoK": null,
+    "GrupoK-pos": null,
+    "GrupoL": null,
+    "GrupoL-pos": null
+  }
+}
