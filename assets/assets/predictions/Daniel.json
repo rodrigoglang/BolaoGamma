@@ -1,1 +1,249 @@
-{"matches": {"0": {"ScoreA": 1, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.6630112664850885}, "1": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.28863206777486755}, "2": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.8747981989982643}, "3": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.489952476624643}, "4": {"ScoreA": 0, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.9577760976475401}, "5": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.7002546675039905}, "6": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.2181555313052525}, "7": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.15898019926149728}, "8": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.25402756330614007}, "9": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.1397952046815804}, "10": {"ScoreA": 0, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.9700595294974286}, "11": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.8932387554833289}, "12": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.8062657820269918}, "13": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 1.126807112511405}, "14": {"ScoreA": 0, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.0635068522802626}, "15": {"ScoreA": 3, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.7528415887777962}, "16": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.7863735166560896}, "17": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.5322804610572405}, "18": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.39634709008116953}, "19": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.38248137760135975}, "20": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.7014872435129312}, "21": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.321185522099243}, "22": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.3077793122917733}, "23": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 1.7890888252165857}, "24": {"ScoreA": 4, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.8597858436006307}, "25": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.7248121009781916}, "26": {"ScoreA": 3, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.31432351720508633}, "27": {"ScoreA": 3, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.2529492074005333}, "28": {"ScoreA": 0, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 2.76755132120877}, "29": {"ScoreA": 0, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 1.3599845156924006}, "30": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.22715149333247986}, "31": {"ScoreA": 1, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.305617919349948}, "32": {"ScoreA": 3, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.6894204303332296}, "33": {"ScoreA": 0, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.557995178690124}, "34": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.8006884177378479}, "35": {"ScoreA": 0, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.5947904035630258}}, "profile": {"Campeao": "\ud83c\udde7\ud83c\uddf7 Brasil", "Vice": "\ud83c\uddeb\ud83c\uddf7 Fran\u00e7a", "Artilheiro": "\ud83c\uddeb\ud83c\uddf7 K. Mbapp\u00e9", "GrupoA": null, "GrupoA-pos": null, "GrupoB": null, "GrupoB-pos": null, "GrupoC": null, "GrupoC-pos": null, "GrupoD": null, "GrupoD-pos": null, "GrupoE": null, "GrupoE-pos": null, "GrupoF": null, "GrupoF-pos": null, "GrupoG": null, "GrupoG-pos": null, "GrupoH": null, "GrupoH-pos": null, "GrupoI": null, "GrupoI-pos": null, "GrupoJ": null, "GrupoJ-pos": null, "GrupoK": null, "GrupoK-pos": null, "GrupoL": null, "GrupoL-pos": null}}
+{
+  "matches": {
+    "0": {
+      "ScoreA": 1,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "1": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "2": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "3": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "4": {
+      "ScoreA": 0,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "5": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "6": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "7": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "8": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "9": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "10": {
+      "ScoreA": 0,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "11": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "12": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "13": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "14": {
+      "ScoreA": 0,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "15": {
+      "ScoreA": 3,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "16": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "17": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "18": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "19": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "20": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "21": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "22": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "23": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "24": {
+      "ScoreA": 4,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "25": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "26": {
+      "ScoreA": 3,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "27": {
+      "ScoreA": 3,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "28": {
+      "ScoreA": 0,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "29": {
+      "ScoreA": 0,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "30": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "31": {
+      "ScoreA": 1,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "32": {
+      "ScoreA": 3,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "33": {
+      "ScoreA": 0,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "34": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "35": {
+      "ScoreA": 0,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    }
+  },
+  "profile": {
+    "Campeao": "🇧🇷 Brasil",
+    "Vice": "🇫🇷 França",
+    "Artilheiro": "🇫🇷 K. Mbappé",
+    "GrupoA": null,
+    "GrupoA-pos": null,
+    "GrupoB": null,
+    "GrupoB-pos": null,
+    "GrupoC": null,
+    "GrupoC-pos": null,
+    "GrupoD": null,
+    "GrupoD-pos": null,
+    "GrupoE": null,
+    "GrupoE-pos": null,
+    "GrupoF": null,
+    "GrupoF-pos": null,
+    "GrupoG": null,
+    "GrupoG-pos": null,
+    "GrupoH": null,
+    "GrupoH-pos": null,
+    "GrupoI": null,
+    "GrupoI-pos": null,
+    "GrupoJ": null,
+    "GrupoJ-pos": null,
+    "GrupoK": null,
+    "GrupoK-pos": null,
+    "GrupoL": null,
+    "GrupoL-pos": null
+  }
+}

@@ -1,1 +1,573 @@
-{"matches": {"0": {"ScoreA": 3, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.6706084194507822}, "1": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 2.017470235144181}, "2": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.8747981989982643}, "3": {"ScoreA": 3, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 2.4657296731372695}, "4": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.17715580273393805}, "5": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.143627344238012}, "6": {"ScoreA": 0, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 2.770334792915433}, "7": {"ScoreA": 0, "ScoreB": 4, "Score": null, "Cravado": null, "sigma": 3.9978699984317525}, "8": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.25402756330614007}, "9": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.1311402052069979}, "10": {"ScoreA": 4, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 4.770252656339419}, "11": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.187379382897855}, "12": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.2237473996421492}, "13": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.43100971697827467}, "14": {"ScoreA": 3, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 2.584306152751622}, "15": {"ScoreA": 4, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.5649895074878029}, "16": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.9940070765500617}, "17": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.5322804610572405}, "18": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.39634709008116953}, "19": {"ScoreA": 0, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 1.796647682451561}, "20": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.21585344544656}, "21": {"ScoreA": 2, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 1.4572339661390747}, "22": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.3077793122917733}, "23": {"ScoreA": 1, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.6451602364286817}, "24": {"ScoreA": 5, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.7679123827207366}, "25": {"ScoreA": 2, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 1.3524976584456685}, "26": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.2480236867653434}, "27": {"ScoreA": 3, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.2529492074005333}, "28": {"ScoreA": 1, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 1.695438354748259}, "29": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.46613272727532384}, "30": {"ScoreA": 3, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 2.065835923108105}, "31": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.9634602015135562}, "32": {"ScoreA": 3, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 2.226049236503905}, "33": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.44372872249131673}, "34": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.6843381986267458}, "35": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.28696935504023297}, "36": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.3700058677897204}, "37": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.26247289805359353}, "38": {"ScoreA": 1, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.8426731631595665}, "39": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.4175111646261796}, "40": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.08240411115267945}, "41": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.9808567623730045}, "42": {"ScoreA": 4, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.5232500463665181}, "43": {"ScoreA": 2, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 2.14725056109878}, "44": {"ScoreA": 3, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.0945014280856078}, "45": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.11420572239983946}, "46": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.15730324092337494}, "47": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.49816924230492055}, "48": {"ScoreA": 3, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.230619851551641}, "49": {"ScoreA": 1, "ScoreB": 4, "Score": null, "Cravado": null, "sigma": 3.2798352458054874}, "50": {"ScoreA": 4, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.5116327527026379}, "51": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.2426419853989181}, "52": {"ScoreA": 2, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 1.6546492472274374}, "53": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.27726907726302563}, "54": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.6388897918715739}, "55": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.154526943222499}, "56": {"ScoreA": 1, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.546803179394407}, "57": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.951224222471764}, "58": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.8529002279795436}, "59": {"ScoreA": 1, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 1.4898815916152877}, "60": {"ScoreA": 4, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.4103095603025289}, "61": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 1.164113011096599}, "62": {"ScoreA": 3, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.34319171026618805}, "63": {"ScoreA": 2, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 2.4822963843969488}, "64": {"ScoreA": 1, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.30986540647510163}, "65": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.03565480007537095}, "66": {"ScoreA": 2, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 0.32888436195794435}, "67": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 0.5558011938732492}, "68": {"ScoreA": 3, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.835982547483269}, "69": {"ScoreA": 0, "ScoreB": 2, "Score": null, "Cravado": null, "sigma": 0.893383868357114}, "70": {"ScoreA": 0, "ScoreB": 4, "Score": null, "Cravado": null, "sigma": 0.6406740936645671}, "71": {"ScoreA": 2, "ScoreB": 0, "Score": null, "Cravado": null, "sigma": 1.1517521447523493}}, "profile": {"Campeao": "\ud83c\uddea\ud83c\uddf8 Espanha", "Vice": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f Inglaterra", "Artilheiro": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f H. Kane", "GrupoA": ["MEX", "KOR", "CZE"], "GrupoA-pos": ["MEX", "KOR", "CZE", "RSA"], "GrupoB": ["SUI", "BIH", "-"], "GrupoB-pos": ["SUI", "BIH", "CAN", "QAT"], "GrupoC": ["BRA", "SCO", "MAR"], "GrupoC-pos": ["BRA", "SCO", "MAR", "HAI"], "GrupoD": ["USA", "TUR", "PAR"], "GrupoD-pos": ["USA", "TUR", "PAR", "AUS"], "GrupoE": ["GER", "ECU", "CIV"], "GrupoE-pos": ["GER", "ECU", "CIV", "CUW"], "GrupoF": ["NED", "SWE", "JPN"], "GrupoF-pos": ["NED", "SWE", "JPN", "TUN"], "GrupoG": ["BEL", "EGY", "-"], "GrupoG-pos": ["BEL", "EGY", "IRN", "NZL"], "GrupoH": ["ESP", "URU", "-"], "GrupoH-pos": ["ESP", "URU", "KSA", "CPV"], "GrupoI": ["FRA", "NOR", "SEN"], "GrupoI-pos": ["FRA", "NOR", "SEN", "IRQ"], "GrupoJ": ["ARG", "AUT", "ALG"], "GrupoJ-pos": ["ARG", "AUT", "ALG", "JOR"], "GrupoK": ["POR", "COL", "-"], "GrupoK-pos": ["POR", "COL", "COD", "UZB"], "GrupoL": ["ENG", "CRO", "GHA"], "GrupoL-pos": ["ENG", "CRO", "GHA", "PAN"]}}
+{
+  "matches": {
+    "0": {
+      "ScoreA": 3,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "1": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "2": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "3": {
+      "ScoreA": 3,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "4": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "5": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "6": {
+      "ScoreA": 0,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "7": {
+      "ScoreA": 0,
+      "ScoreB": 4,
+      "Score": null,
+      "Cravado": null
+    },
+    "8": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "9": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "10": {
+      "ScoreA": 4,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "11": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "12": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "13": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "14": {
+      "ScoreA": 3,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "15": {
+      "ScoreA": 4,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "16": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "17": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "18": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "19": {
+      "ScoreA": 0,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "20": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "21": {
+      "ScoreA": 2,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "22": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "23": {
+      "ScoreA": 1,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "24": {
+      "ScoreA": 5,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "25": {
+      "ScoreA": 2,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "26": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "27": {
+      "ScoreA": 3,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "28": {
+      "ScoreA": 1,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "29": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "30": {
+      "ScoreA": 3,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "31": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "32": {
+      "ScoreA": 3,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "33": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "34": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "35": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "36": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "37": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "38": {
+      "ScoreA": 1,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "39": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "40": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "41": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "42": {
+      "ScoreA": 4,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "43": {
+      "ScoreA": 2,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "44": {
+      "ScoreA": 3,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "45": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "46": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "47": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "48": {
+      "ScoreA": 3,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "49": {
+      "ScoreA": 1,
+      "ScoreB": 4,
+      "Score": null,
+      "Cravado": null
+    },
+    "50": {
+      "ScoreA": 4,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "51": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "52": {
+      "ScoreA": 2,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "53": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "54": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "55": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "56": {
+      "ScoreA": 1,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "57": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "58": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "59": {
+      "ScoreA": 1,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    },
+    "60": {
+      "ScoreA": 4,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "61": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "62": {
+      "ScoreA": 3,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "63": {
+      "ScoreA": 2,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "64": {
+      "ScoreA": 1,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "65": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "66": {
+      "ScoreA": 2,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "67": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "68": {
+      "ScoreA": 3,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    },
+    "69": {
+      "ScoreA": 0,
+      "ScoreB": 2,
+      "Score": null,
+      "Cravado": null
+    },
+    "70": {
+      "ScoreA": 0,
+      "ScoreB": 4,
+      "Score": null,
+      "Cravado": null
+    },
+    "71": {
+      "ScoreA": 2,
+      "ScoreB": 0,
+      "Score": null,
+      "Cravado": null
+    }
+  },
+  "profile": {
+    "Campeao": "🇪🇸 Espanha",
+    "Vice": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra",
+    "Artilheiro": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 H. Kane",
+    "GrupoA": [
+      "MEX",
+      "KOR",
+      "CZE"
+    ],
+    "GrupoA-pos": [
+      "MEX",
+      "KOR",
+      "CZE",
+      "RSA"
+    ],
+    "GrupoB": [
+      "SUI",
+      "BIH",
+      "-"
+    ],
+    "GrupoB-pos": [
+      "SUI",
+      "BIH",
+      "CAN",
+      "QAT"
+    ],
+    "GrupoC": [
+      "BRA",
+      "SCO",
+      "MAR"
+    ],
+    "GrupoC-pos": [
+      "BRA",
+      "SCO",
+      "MAR",
+      "HAI"
+    ],
+    "GrupoD": [
+      "USA",
+      "TUR",
+      "PAR"
+    ],
+    "GrupoD-pos": [
+      "USA",
+      "TUR",
+      "PAR",
+      "AUS"
+    ],
+    "GrupoE": [
+      "GER",
+      "ECU",
+      "CIV"
+    ],
+    "GrupoE-pos": [
+      "GER",
+      "ECU",
+      "CIV",
+      "CUW"
+    ],
+    "GrupoF": [
+      "NED",
+      "SWE",
+      "JPN"
+    ],
+    "GrupoF-pos": [
+      "NED",
+      "SWE",
+      "JPN",
+      "TUN"
+    ],
+    "GrupoG": [
+      "BEL",
+      "EGY",
+      "-"
+    ],
+    "GrupoG-pos": [
+      "BEL",
+      "EGY",
+      "IRN",
+      "NZL"
+    ],
+    "GrupoH": [
+      "ESP",
+      "URU",
+      "-"
+    ],
+    "GrupoH-pos": [
+      "ESP",
+      "URU",
+      "KSA",
+      "CPV"
+    ],
+    "GrupoI": [
+      "FRA",
+      "NOR",
+      "SEN"
+    ],
+    "GrupoI-pos": [
+      "FRA",
+      "NOR",
+      "SEN",
+      "IRQ"
+    ],
+    "GrupoJ": [
+      "ARG",
+      "AUT",
+      "ALG"
+    ],
+    "GrupoJ-pos": [
+      "ARG",
+      "AUT",
+      "ALG",
+      "JOR"
+    ],
+    "GrupoK": [
+      "POR",
+      "COL",
+      "-"
+    ],
+    "GrupoK-pos": [
+      "POR",
+      "COL",
+      "COD",
+      "UZB"
+    ],
+    "GrupoL": [
+      "ENG",
+      "CRO",
+      "GHA"
+    ],
+    "GrupoL-pos": [
+      "ENG",
+      "CRO",
+      "GHA",
+      "PAN"
+    ]
+  }
+}

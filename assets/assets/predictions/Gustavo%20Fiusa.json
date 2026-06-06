@@ -1,1 +1,45 @@
-{"matches": {"0": {"ScoreA": 1, "ScoreB": 1, "Score": null, "Cravado": null, "sigma": 1.982682409647592}, "1": {"ScoreA": 2, "ScoreB": 3, "Score": null, "Cravado": null, "sigma": 4.9772443488122216}}, "profile": {"Campeao": "\ud83c\uddeb\ud83c\uddf7 Fran\u00e7a", "Vice": "\ud83c\uddea\ud83c\uddf8 Espanha", "Artilheiro": "\ud83c\uddeb\ud83c\uddf7 K. Mbapp\u00e9", "GrupoA": null, "GrupoA-pos": null, "GrupoB": null, "GrupoB-pos": null, "GrupoC": null, "GrupoC-pos": null, "GrupoD": null, "GrupoD-pos": null, "GrupoE": null, "GrupoE-pos": null, "GrupoF": null, "GrupoF-pos": null, "GrupoG": null, "GrupoG-pos": null, "GrupoH": null, "GrupoH-pos": null, "GrupoI": null, "GrupoI-pos": null, "GrupoJ": null, "GrupoJ-pos": null, "GrupoK": null, "GrupoK-pos": null, "GrupoL": null, "GrupoL-pos": null}}
+{
+  "matches": {
+    "0": {
+      "ScoreA": 1,
+      "ScoreB": 1,
+      "Score": null,
+      "Cravado": null
+    },
+    "1": {
+      "ScoreA": 2,
+      "ScoreB": 3,
+      "Score": null,
+      "Cravado": null
+    }
+  },
+  "profile": {
+    "Campeao": "🇫🇷 França",
+    "Vice": "🇪🇸 Espanha",
+    "Artilheiro": "🇫🇷 K. Mbappé",
+    "GrupoA": null,
+    "GrupoA-pos": null,
+    "GrupoB": null,
+    "GrupoB-pos": null,
+    "GrupoC": null,
+    "GrupoC-pos": null,
+    "GrupoD": null,
+    "GrupoD-pos": null,
+    "GrupoE": null,
+    "GrupoE-pos": null,
+    "GrupoF": null,
+    "GrupoF-pos": null,
+    "GrupoG": null,
+    "GrupoG-pos": null,
+    "GrupoH": null,
+    "GrupoH-pos": null,
+    "GrupoI": null,
+    "GrupoI-pos": null,
+    "GrupoJ": null,
+    "GrupoJ-pos": null,
+    "GrupoK": null,
+    "GrupoK-pos": null,
+    "GrupoL": null,
+    "GrupoL-pos": null
+  }
+}
