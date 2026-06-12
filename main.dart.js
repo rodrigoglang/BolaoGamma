@@ -54809,85 +54809,83 @@ if(r.ax==null)return A.ac(r.fr,!0,t.P)
 s=A.ac(r.fr,!0,t.P)
 B.b.cq(s,new A.auA(r))
 return s},
-aax(){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="Teilnehmer",d="Participant",c="Participante",b="Richtige Ergebnisse",a="Richtige Gruppen",a0="Durchschn. Punkte daf\xfcr",a1="Average points for",a2="Resultados cravados",a3="M\xe9dia de pontos pr\xf3",a4="Demn\xe4chst verf\xfcgbar",a5="Coming soon",a6="Em breve",a7=g.c
-a7.toString
-s=A.bG(a7,f,t.l).w.a.a>=600
-a7=g.a.c
-r=a7==="DE"
-if(r)q="PF"
-else q=a7==="EN"?"PF":"PP"
-if(r)p="PG"
-else p=a7==="EN"?"PA":"PC"
-if(s){if(r)o=e
-else o=a7==="EN"?d:c
-if(r)n="RE"
-else n=a7==="EN"?"ER":"RC"
-if(r)m="RG"
-else m=a7==="EN"?"GN":"GC"
-if(r)l="M"
-else l=a7==="EN"?"CH":"C"
-if(r)k="VM"
-else k=a7==="EN"?"RU":"VC"
-if(r)a7="TS"
-else a7=a7==="EN"?"TS":"A"
-j=A.b(["",o,"Pts",n,m,l,k,a7,p,q],t.s)}else{if(r)o=e
-else o=a7==="EN"?d:c
-if(r)n="RE"
-else n=a7==="EN"?"ER":"RC"
-if(r)a7="RG"
-else a7=a7==="EN"?"GN":"GC"
-j=A.b(["",o,"Pts",n,a7,q],t.s)}a7=g.a.c
-if(a7==="DE"){a7=t.N
-i=s?A.L(["Pts","Punkte","RE",b,"RG",a,"M","Meister","VM","Vizemeister","TS","Torsch\xfctze",p,"Durchschn. Punkte dagegen",q,a0],a7,a7):A.L(["Pts","Punkte","RE",b,"RG",a,q,a0],a7,a7)}else if(a7==="EN"){a7=t.N
-a7=s?A.L(["Pts","Points","ER","Exact results","GN","Groups nailed","CH","Champion","RU","Runner-up","TS","Top scorer",p,"Average points against",q,a1],a7,a7):A.L(["Pts","Points","ER","Exact results","GN","Groups nailed",q,a1],a7,a7)
-i=a7}else{a7=t.N
-a7=s?A.L(["Pts","Pontos","RC",a2,"GC","Grupos cravados","C","Campe\xe3o","VC","Vice-campe\xe3o","A","Artilheiro",p,"M\xe9dia de pontos contra",q,a3],a7,a7):A.L(["Pts","Pontos","RC",a2,"GC","Grupos cravados",q,a3],a7,a7)
-i=a7}h=g.gap_()
-a7=g.a.d
-a7=A.apw(a7,a7,B.k,new A.b5(a7,1.5,B.z,-1))
-r=g.a.c
-o=r==="DE"
-if(o)n="Gesamt"
-else n=r==="EN"?"Overall":"Geral"
-n=A.n(n,f,f,f,f,f,f,f)
-m=t.lM
-if(o)r="KI"
+aax(){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="Teilnehmer",f="Participant",e="Participante",d="Richtige Ergebnisse",c="Richtige Gruppen",b="Resultados cravados",a="Demn\xe4chst verf\xfcgbar",a0="Coming soon",a1="Em breve",a2=i.c
+a2.toString
+s=A.bG(a2,h,t.l).w.a.a>=600
+if(s){a2=i.a.c
+r=a2==="DE"
+if(r)q=g
+else q=a2==="EN"?f:e
+if(r)p="RE"
+else p=a2==="EN"?"ER":"RC"
+if(r)o="RG"
+else o=a2==="EN"?"GN":"GC"
+if(r)n="M"
+else n=a2==="EN"?"CH":"C"
+if(r)m="VM"
+else m=a2==="EN"?"RU":"VC"
+if(r)a2="TS"
+else a2=a2==="EN"?"TS":"A"
+l=A.b(["",q,"Pts",p,o,n,m,a2],t.s)}else{a2=i.a.c
+r=a2==="DE"
+if(r)q=g
+else q=a2==="EN"?f:e
+if(r)p="RE"
+else p=a2==="EN"?"ER":"RC"
+if(r)a2="RG"
+else a2=a2==="EN"?"GN":"GC"
+l=A.b(["",q,"Pts",p,a2],t.s)}a2=i.a.c
+if(a2==="DE"){a2=t.N
+k=s?A.L(["Pts","Punkte","RE",d,"RG",c,"M","Meister","VM","Vizemeister","TS","Torsch\xfctze"],a2,a2):A.L(["Pts","Punkte","RE",d,"RG",c],a2,a2)}else if(a2==="EN"){a2=t.N
+a2=s?A.L(["Pts","Points","ER","Exact results","GN","Groups nailed","CH","Champion","RU","Runner-up","TS","Top scorer"],a2,a2):A.L(["Pts","Points","ER","Exact results","GN","Groups nailed"],a2,a2)
+k=a2}else{a2=t.N
+a2=s?A.L(["Pts","Pontos","RC",b,"GC","Grupos cravados","C","Campe\xe3o","VC","Vice-campe\xe3o","A","Artilheiro"],a2,a2):A.L(["Pts","Pontos","RC",b,"GC","Grupos cravados"],a2,a2)
+k=a2}j=i.gap_()
+a2=i.a.d
+a2=A.apw(a2,a2,B.k,new A.b5(a2,1.5,B.z,-1))
+r=i.a.c
+q=r==="DE"
+if(q)p="Gesamt"
+else p=r==="EN"?"Overall":"Geral"
+p=A.n(p,h,h,h,h,h,h,h)
+o=t.lM
+if(q)r="KI"
 else r=r==="EN"?"AIs":"IAs"
-o=t.S
-o=A.ap7(new A.arW(g),A.b([new A.fW(0,n,m),new A.fW(1,A.n(r,f,f,f,f,f,f,f),m)],t.OV),A.cu([g.f],o),!0,a7,o)
-a7=g.a
-m=a7.d
-r=A.c2(B.h0,m,f,16)
-a7=a7.c
-if(a7==="DE")a7="Aktualisieren"
-else a7=a7==="EN"?"Refresh":"Atualizar"
-n=t.p
-m=A.cy(f,A.ae(A.b([r,B.aa,A.n(a7,f,f,f,f,A.a3(f,f,m,f,B.bu,m,f,f,f,f,f,13,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],n),B.h,B.f,B.y,0,f),B.M,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.arX(g),f,f,f,f,f,f)
-a7=g.a
-r=a7.c
+q=t.S
+q=A.ap7(new A.arW(i),A.b([new A.fW(0,p,o),new A.fW(1,A.n(r,h,h,h,h,h,h,h),o)],t.OV),A.cu([i.f],q),!0,a2,q)
+a2=i.a
+o=a2.d
+r=A.c2(B.h0,o,h,16)
+a2=a2.c
+if(a2==="DE")a2="Aktualisieren"
+else a2=a2==="EN"?"Refresh":"Atualizar"
+p=t.p
+o=A.cy(h,A.ae(A.b([r,B.aa,A.n(a2,h,h,h,h,A.a3(h,h,o,h,B.bu,o,h,h,h,h,h,13,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],p),B.h,B.f,B.y,0,h),B.M,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,new A.arX(i),h,h,h,h,h,h)
+a2=i.a
+r=a2.c
 if(r==="DE")r="Meine Favoriten festlegen"
 else r=r==="EN"?"Set my favorites":"Definir meus favoritos"
-a7=a7.d
-a7=A.ae(A.b([m,B.hL,A.cy(f,A.n(r,f,f,f,f,A.a3(f,f,a7,f,B.bu,a7,f,f,f,f,f,13,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),B.M,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.arY(g),f,f,f,f,f,f)],n),B.h,B.f,B.j,0,f)
-if(g.ch)r=B.bk
-else if(g.f===1)if(g.dy.length===0){r=g.a.c
-if(r==="DE")r=a4
-else r=r==="EN"?a5:a6
-r=g.vv(r)}else{r=g.gaoY()
-m=g.CW
-m=m.length!==0?B.b.pn(m,new A.arZ(g),new A.as_(g)):f
-m=g.PZ(r,j,new A.as0(g,j),g.y2,g.aI,!1,m)
-r=A.u(i).i("c5<1,2>")
-r=A.lg(new A.c5(i,r),new A.as1(),r.i("r.E"),t.As)
+a2=a2.d
+a2=A.ae(A.b([o,B.hL,A.cy(h,A.n(r,h,h,h,h,A.a3(h,h,a2,h,B.bu,a2,h,h,h,h,h,13,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h),B.M,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,new A.arY(i),h,h,h,h,h,h)],p),B.h,B.f,B.j,0,h)
+if(i.ch)r=B.bk
+else if(i.f===1)if(i.dy.length===0){r=i.a.c
+if(r==="DE")r=a
+else r=r==="EN"?a0:a1
+r=i.vv(r)}else{r=i.gaoY()
+o=i.CW
+o=o.length!==0?B.b.pn(o,new A.arZ(i),new A.as_(i)):h
+o=i.PZ(r,l,new A.as0(i,l),i.y2,i.aI,!1,o)
+r=A.u(k).i("c5<1,2>")
+r=A.lg(new A.c5(k,r),new A.as1(),r.i("r.E"),t.As)
 r=A.Z(r,A.u(r).i("r.E"))
-r=A.d2(A.ak(A.b([m,new A.a0(B.qQ,A.awP(r,2,12),f)],n),B.h,B.f,B.j),f,B.lP,B.O)}else if(g.CW.length===0){r=g.a.c
-if(r==="DE")r=a4
-else r=r==="EN"?a5:a6
-r=g.vv(r)}else{r=g.aaA(h,j,new A.as3(g,j))
-m=A.u(i).i("c5<1,2>")
-m=A.lg(new A.c5(i,m),new A.as2(),m.i("r.E"),t.As)
-m=A.Z(m,A.u(m).i("r.E"))
-r=A.d2(A.ak(A.b([r,new A.a0(B.qQ,A.awP(m,2,12),f)],n),B.h,B.f,B.j),f,B.lP,B.O)}return A.ak(A.b([new A.a0(B.lW,o,f),new A.a0(B.iK,a7,f),A.aE(r,1)],n),B.h,B.f,B.j)},
+r=A.d2(A.ak(A.b([o,new A.a0(B.qQ,A.awP(r,2,12),h)],p),B.h,B.f,B.j),h,B.lP,B.O)}else if(i.CW.length===0){r=i.a.c
+if(r==="DE")r=a
+else r=r==="EN"?a0:a1
+r=i.vv(r)}else{r=i.aaA(j,l,new A.as3(i,l))
+o=A.u(k).i("c5<1,2>")
+o=A.lg(new A.c5(k,o),new A.as2(),o.i("r.E"),t.As)
+o=A.Z(o,A.u(o).i("r.E"))
+r=A.d2(A.ak(A.b([r,new A.a0(B.qQ,A.awP(o,2,12),h)],p),B.h,B.f,B.j),h,B.lP,B.O)}return A.ak(A.b([new A.a0(B.lW,q,h),new A.a0(B.iK,a2,h),A.aE(r,1)],p),B.h,B.f,B.j)},
 ab9(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="Team",a0="Auswahl w\xe4hlen",a1="Select team",a2="Selecionar equipe",a3=c.c
 a3.toString
 if(A.bG(a3,b,t.l).w.a.a>=600){a3=c.a.c
