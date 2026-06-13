@@ -48133,42 +48133,42 @@ else n=k==="EN"?"Classic":"Cl\xe1ssico"
 A.ip(!0,new A.aDK(m,r,l,new A.aDJ(l),p,new A.aDM(m,k),d,e,o,new A.aDL(m,k),f,g,n,h,i,"Fantasy",k,c,b),a,t.z)},
 ab6(a,b){return A.aN9(new A.aDm(this,b),this.ni(a),t.P)},
 ni(a){return this.ak1(a)},
-ak1(f5){var s=0,r=A.H(t.P),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4
-var $async$ni=A.I(function(f6,f7){if(f6===1){o.push(f7)
+ak1(f6){var s=0,r=A.H(t.P),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5
+var $async$ni=A.I(function(f7,f8){if(f7===1){o.push(f8)
 s=p}for(;;)switch(s){case 0:p=4
-d5=$.dS()
+d7=$.dS()
 s=7
-return A.x(d5.d9("assets/data/fantasy-chaveamento.json"),$async$ni)
-case 7:m=f7
+return A.x(d7.d9("assets/data/fantasy-chaveamento.json"),$async$ni)
+case 7:m=f8
 s=8
-return A.x(d5.d9("assets/data/fantasy-resultados.json"),$async$ni)
-case 8:l=f7
-d6=t.P
-k=d6.a(B.aa.c5(0,m))
-j=d6.a(B.aa.c5(0,l))
-d7=t.N
-d8=t.z
-i=A.h1(k,d7,d8)
+return A.x(d7.d9("assets/data/fantasy-resultados.json"),$async$ni)
+case 8:l=f8
+d8=t.P
+k=d8.a(B.aa.c5(0,m))
+j=d8.a(B.aa.c5(0,l))
+d9=t.N
+e0=t.z
+i=A.h1(k,d9,e0)
 h=i
 J.eF(j,new A.aDz(h))
 i=t.h
-d9=i.a(J.h(h,n.a.c))
-g=d9==null?A.p(d7,d8):d9
-e0=J.h(g,"adversario")
-f=A.ac(e0==null?[]:e0,!0,d7)
-e0=J.h(g,"casa")
-e=A.ac(e0==null?[]:e0,!0,d8)
-e0=J.h(g,"resultado")
-d=A.ac(e0==null?[]:e0,!0,d8)
-c=f5-1
-if(c<0||c>=J.a2(f)){q=A.p(d7,d8)
+e1=i.a(J.h(h,n.a.c))
+g=e1==null?A.p(d9,e0):e1
+e2=J.h(g,"adversario")
+f=A.ac(e2==null?[]:e2,!0,d9)
+e2=J.h(g,"casa")
+e=A.ac(e2==null?[]:e2,!0,e0)
+e2=J.h(g,"resultado")
+d=A.ac(e2==null?[]:e2,!0,e0)
+c=f6-1
+if(c<0||c>=J.a2(f)){q=A.p(d9,e0)
 s=1
 break}b=J.h(f,c)
-if(c<J.a2(e)){e0=A.dI(J.h(e,c))
-e1=e0!==!1}else e1=!0
-a=e1
+if(c<J.a2(e)){e2=A.dI(J.h(e,c))
+e3=e2!==!1}else e3=!0
+a=e3
 a0=c<J.a2(d)?J.h(d,c):null
-a1=a0==null||J.d(a0,-1)?null:A.ac(a0,!0,d8)
+a1=a0==null||J.d(a0,-1)?null:A.ac(a0,!0,e0)
 a2=new A.aDy()
 a3=a1!=null&&J.a2(a1)>0?a2.$1(J.h(a1,0)):null
 a4=a1!=null&&J.a2(a1)>1?a2.$1(J.h(a1,1)):null
@@ -48177,86 +48177,87 @@ a6=a?a4:a3
 a7=A.b([],t.d)
 p=10
 s=13
-return A.x(d5.d9(u.n),$async$ni)
-case 13:a8=f7
+return A.x(d7.d9(u.n),$async$ni)
+case 13:a8=f8
 a9=null
 p=15
 s=18
-return A.x(d5.d9(u.B),$async$ni)
-case 18:a9=f7
+return A.x(d7.d9(u.B),$async$ni)
+case 18:a9=f8
 p=10
 s=17
 break
 case 15:p=14
-f2=o.pop()
+f3=o.pop()
 s=17
 break
 case 14:s=10
 break
-case 17:b0=d6.a(B.aa.c5(0,a8))
-b1=a9!=null?d6.a(B.aa.c5(0,a9)):A.p(d7,d8)
-b2=A.h1(b0,d7,d8)
+case 17:b0=d8.a(B.aa.c5(0,a8))
+b1=a9!=null?d8.a(B.aa.c5(0,a9)):A.p(d9,e0)
+b2=A.h1(b0,d9,e0)
 b3=b2
 J.eF(b1,new A.aDA(b3))
 b2=$.ba
-e3=(b2==null?$.ba=$.cB():b2).cn("[DEFAULT]")
-A.c0(e3,$.cQ(),!0)
+e5=(b2==null?$.ba=$.cB():b2).cn("[DEFAULT]")
+A.c0(e5,$.cQ(),!0)
 s=19
-return A.x(A.dt(new A.c9(e3)).bY("users").bL("rankings").f5(0),$async$ni)
-case 19:b4=f7
+return A.x(A.dt(new A.c9(e5)).bY("users").bL("rankings").f5(0),$async$ni)
+case 19:b4=f8
 b2=b4
-e4=A.fs(b2.b.fd(0),b2.a)
-b5=e4==null?A.p(d7,d8):e4
+e6=A.fs(b2.b.fd(0),b2.a)
+b5=e6==null?A.p(d9,e0):e6
 b2=J.h(b5,"Equipe-Nome")
 if(b2==null)b2=J.h(b5,"Equipe-Classico-Nome")
-b6=A.ac(b2==null?[]:b2,!0,d8)
-b7=A.aV(d7)
-for(b2=b6,d5=b2.length,e5=0;e5<b2.length;b2.length===d5||(0,A.D)(b2),++e5){b8=b2[e5]
-e6=A.au(b8)
-b9=e6==null?"":e6
+b6=A.ac(b2==null?[]:b2,!0,e0)
+b7=A.aV(d9)
+for(b2=b6,d7=b2.length,e7=0;e7<b2.length;b2.length===d7||(0,A.D)(b2),++e7){b8=b2[e7]
+e8=A.au(b8)
+b9=e8==null?"":e8
 if(J.a2(b9)===0)continue
-d6=J.h(b5,A.l(b9)+"-Participantes")
-c0=A.ac(d6==null?[]:d6,!0,d8)
-if(J.aMb(c0,new A.aDB(n)))J.dx(b7,b9)}c1=A.aV(d7)
-for(b2=b3,b2=new A.eY(b2,b2.r,b2.e),d5=t.s;b2.v();){c2=b2.d
-e7=i.a(J.h(b3,c2))
-c3=e7==null?A.p(d7,d8):e7
-d6=J.h(c3,"adversario")
-c4=A.ac(d6==null?[]:d6,!0,d8)
+d8=J.h(b5,A.l(b9)+"-Participantes")
+c0=A.ac(d8==null?[]:d8,!0,e0)
+if(J.aMb(c0,new A.aDB(n)))J.dx(b7,b9)}c1=A.aV(d9)
+for(b2=b3,b2=new A.eY(b2,b2.r,b2.e),d7=t.s;b2.v();){c2=b2.d
+e9=i.a(J.h(b3,c2))
+c3=e9==null?A.p(d9,e0):e9
+d8=J.h(c3,"adversario")
+c4=A.ac(d8==null?[]:d8,!0,e0)
 if(c>=J.a2(c4))continue
-e8=A.au(J.h(c4,c))
-c5=e8==null?"":e8
+f0=A.au(J.h(c4,c))
+c5=f0==null?"":f0
 if(!J.kO(b7,c2)&&!J.kO(b7,c5))continue
-e9=A.b([c2,c5],d5)
-B.b.hf(e9)
-c6=e9
+f1=A.b([c2,c5],d7)
+B.b.hf(f1)
+c6=f1
 c7=J.aMf(c6,"|")
 if(J.kO(c1,c7))continue
 J.dx(c1,c7)
-d6=J.h(c3,"casa")
-c8=A.ac(d6==null?[]:d6,!0,d8)
-d6=J.h(c3,"resultado")
-c9=A.ac(d6==null?[]:d6,!0,d8)
-if(c<J.a2(c8)){d6=A.dI(J.h(c8,c))
-f0=d6!==!1}else f0=!0
-d0=f0
+d8=J.h(c3,"casa")
+c8=A.ac(d8==null?[]:d8,!0,e0)
+d8=J.h(c3,"resultado")
+c9=A.ac(d8==null?[]:d8,!0,e0)
+if(c<J.a2(c8)){d8=A.dI(J.h(c8,c))
+f2=d8!==!1}else f2=!0
+d0=f2
 d1=c<J.a2(c9)?J.h(c9,c):null
-d2=d1==null||J.d(d1,-1)?null:A.ac(d1,!0,d8)
+d2=d1==null||J.d(d1,-1)?null:A.ac(d1,!0,e0)
 d3=d2!=null&&J.a2(d2)>0?a2.$1(J.h(d2,0)):null
 d4=d2!=null&&J.a2(d2)>1?a2.$1(J.h(d2,1)):null
-d6=d0?c2:c5
-e0=d0?c5:c2
-f1=d0?d3:d4
-J.dx(a7,A.L(["casa",d6,"fora",e0,"pfCasa",f1,"pfFora",d0?d4:d3],d7,d8))}p=4
+d5=d0?c2:c5
+d6=d0?c5:c2
+d8=d0?d3:d4
+e2=d0?d4:d3
+J.dx(a7,A.L(["casa",d5,"fora",d6,"pfCasa",d8,"pfFora",e2],d9,e0))}p=4
 s=12
 break
 case 10:p=9
-f3=o.pop()
+f4=o.pop()
 s=12
 break
 case 9:s=4
 break
-case 12:i=A.L(["advName",b,"isCasa",a,"myPF",a5,"advPF",a6,"teamConfs",a7],d7,d8)
+case 12:i=A.L(["advName",b,"isCasa",a,"myPF",a5,"advPF",a6,"teamConfs",a7],d9,e0)
 q=i
 s=1
 break
@@ -48264,7 +48265,7 @@ p=2
 s=6
 break
 case 4:p=3
-f4=o.pop()
+f5=o.pop()
 q=A.p(t.N,t.z)
 s=1
 break
