@@ -1,0 +1,74 @@
+[
+  {
+    "Grupo": "M90",
+    "HorarioH": 14,
+    "HorarioM": 0,
+    "Local": "NRG Stadium\nHouston (TX)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "04/07"
+  },
+  {
+    "Grupo": "M89",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "04/07"
+  },
+  {
+    "Grupo": "M91",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "MetLife Stadium\nEast Rutherford (NJ)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "05/07"
+  },
+  {
+    "Grupo": "M92",
+    "HorarioH": 21,
+    "HorarioM": 0,
+    "Local": "Estadio Azteca\nMexico City (CDMX)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "05/07"
+  },
+  {
+    "Grupo": "M93",
+    "HorarioH": 16,
+    "HorarioM": 0,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "06/07"
+  },
+  {
+    "Grupo": "M94",
+    "HorarioH": 21,
+    "HorarioM": 0,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "06/07"
+  },
+  {
+    "Grupo": "M95",
+    "HorarioH": 13,
+    "HorarioM": 0,
+    "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "07/07"
+  },
+  {
+    "Grupo": "M96",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "BC Place\nVancouver (BC)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "07/07"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Grupo": "M97",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "09/07"
+  },
+  {
+    "Grupo": "M98",
+    "HorarioH": 16,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "10/07"
+  },
+  {
+    "Grupo": "M99",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "Hard Rock Stadium\nMiami Gardens (FL)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "11/07"
+  },
+  {
+    "Grupo": "M100",
+    "HorarioH": 22,
+    "HorarioM": 0,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "TBD",
+    "TimeFora": "TBD",
+    "Data": "11/07"
+  }
+]
