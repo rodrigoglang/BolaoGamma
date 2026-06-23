@@ -55483,12 +55483,12 @@ l=o==null?h:o
 if(l==null)l=0
 o=this.fy
 o.toString
-k=n-l
+k=n-m
 j=18-o
 if(k<-3*j)return"\u2020"
 o=17-o
 if(k<-3*o)return"\u2020\u2020"
-i=n-m
+i=n-l
 if(i>3*j)return"*"
 if(i>3*o)return"**"
 return h},
