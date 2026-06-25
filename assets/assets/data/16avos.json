@@ -4,8 +4,8 @@
     "HorarioH": 16,
     "HorarioM": 0,
     "Local": "SoFi Stadium\nInglewood (CA)",
-    "TimeCasa": "URU",
-    "TimeFora": "SWE",
+    "TimeCasa": "RSA",
+    "TimeFora": "CAN",
     "Data": "28/06"
   },
   {
@@ -13,8 +13,8 @@
     "HorarioH": 14,
     "HorarioM": 0,
     "Local": "NRG Stadium\nHouston (TX)",
-    "TimeCasa": "BEL",
-    "TimeFora": "SCO",
+    "TimeCasa": "BRA",
+    "TimeFora": "2F",
     "Data": "29/06"
   },
   {
@@ -22,8 +22,8 @@
     "HorarioH": 17,
     "HorarioM": 30,
     "Local": "Gillette Stadium\nFoxborough (MA)",
-    "TimeCasa": "TUN",
-    "TimeFora": "MAR",
+    "TimeCasa": "GER",
+    "TimeFora": "3ABCDF",
     "Data": "29/06"
   },
   {
@@ -31,8 +31,8 @@
     "HorarioH": 22,
     "HorarioM": 0,
     "Local": "Estadio BBVA\nMonterrey (NL)",
-    "TimeCasa": "KSA",
-    "TimeFora": "JOR",
+    "TimeCasa": "1F",
+    "TimeFora": "MAR",
     "Data": "29/06"
   },
   {
@@ -40,8 +40,8 @@
     "HorarioH": 14,
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
-    "TimeCasa": "TUR",
-    "TimeFora": "CZE",
+    "TimeCasa": "2E",
+    "TimeFora": "2I",
     "Data": "30/06"
   },
   {
@@ -49,8 +49,8 @@
     "HorarioH": 18,
     "HorarioM": 0,
     "Local": "MetLife Stadium\nEast Rutherford (NJ)",
-    "TimeCasa": "IRQ",
-    "TimeFora": "CAN",
+    "TimeCasa": "1I",
+    "TimeFora": "3CDFGH",
     "Data": "30/06"
   },
   {
@@ -58,8 +58,8 @@
     "HorarioH": 22,
     "HorarioM": 0,
     "Local": "Estadio Azteca\nMexico City (CDMX)",
-    "TimeCasa": "COD",
-    "TimeFora": "IRN",
+    "TimeCasa": "MEX",
+    "TimeFora": "3CEFHI",
     "Data": "30/06"
   },
   {
@@ -67,8 +67,8 @@
     "HorarioH": 13,
     "HorarioM": 0,
     "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
-    "TimeCasa": "HAI",
-    "TimeFora": "SEN",
+    "TimeCasa": "1L",
+    "TimeFora": "3EHIJK",
     "Data": "01/07"
   },
   {
@@ -76,8 +76,8 @@
     "HorarioH": 17,
     "HorarioM": 0,
     "Local": "Lumen Field\nSeattle (WA)",
-    "TimeCasa": "ESP",
-    "TimeFora": "COL",
+    "TimeCasa": "1G",
+    "TimeFora": "3AEHIJ",
     "Data": "01/07"
   },
   {
@@ -85,8 +85,8 @@
     "HorarioH": 21,
     "HorarioM": 0,
     "Local": "Levi's Stadium\nSanta Clara (CA)",
-    "TimeCasa": "CIV",
-    "TimeFora": "CPV",
+    "TimeCasa": "USA",
+    "TimeFora": "3BEFIJ",
     "Data": "01/07"
   },
   {
@@ -94,8 +94,8 @@
     "HorarioH": 16,
     "HorarioM": 0,
     "Local": "SoFi Stadium\nInglewood (CA)",
-    "TimeCasa": "GHA",
-    "TimeFora": "FRA",
+    "TimeCasa": "1H",
+    "TimeFora": "2J",
     "Data": "02/07"
   },
   {
@@ -103,8 +103,8 @@
     "HorarioH": 20,
     "HorarioM": 0,
     "Local": "BMO Field\nToronto (ON)",
-    "TimeCasa": "ARG",
-    "TimeFora": "EGY",
+    "TimeCasa": "2K",
+    "TimeFora": "2L",
     "Data": "02/07"
   },
   {
@@ -112,8 +112,8 @@
     "HorarioH": 0,
     "HorarioM": 0,
     "Local": "BC Place\nVancouver (BC)",
-    "TimeCasa": "NED",
-    "TimeFora": "JPN",
+    "TimeCasa": "SUI",
+    "TimeFora": "3EFGIJ",
     "Data": "03/07"
   },
   {
@@ -121,8 +121,8 @@
     "HorarioH": 15,
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
-    "TimeCasa": "PAN",
-    "TimeFora": "ENG",
+    "TimeCasa": "2D",
+    "TimeFora": "2G",
     "Data": "03/07"
   },
   {
@@ -130,8 +130,8 @@
     "HorarioH": 19,
     "HorarioM": 0,
     "Local": "Hard Rock Stadium\nMiami Gardens (FL)",
-    "TimeCasa": "MEX",
-    "TimeFora": "ECU",
+    "TimeCasa": "ARG",
+    "TimeFora": "2H",
     "Data": "03/07"
   },
   {
@@ -139,8 +139,8 @@
     "HorarioH": 22,
     "HorarioM": 30,
     "Local": "Arrowhead Stadium\nKansas City (MO)",
-    "TimeCasa": "GER",
-    "TimeFora": "UZB",
+    "TimeCasa": "1K",
+    "TimeFora": "3DEIJL",
     "Data": "03/07"
   }
 ]
