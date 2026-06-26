@@ -14,7 +14,7 @@
     "HorarioM": 0,
     "Local": "NRG Stadium\nHouston (TX)",
     "TimeCasa": "BRA",
-    "TimeFora": "2F",
+    "TimeFora": "JPN",
     "Data": "29/06"
   },
   {
@@ -31,7 +31,7 @@
     "HorarioH": 22,
     "HorarioM": 0,
     "Local": "Estadio BBVA\nMonterrey (NL)",
-    "TimeCasa": "1F",
+    "TimeCasa": "NED",
     "TimeFora": "MAR",
     "Data": "29/06"
   },
@@ -40,7 +40,7 @@
     "HorarioH": 14,
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
-    "TimeCasa": "2E",
+    "TimeCasa": "CIV",
     "TimeFora": "2I",
     "Data": "30/06"
   },
