@@ -41,7 +41,7 @@
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
     "TimeCasa": "CIV",
-    "TimeFora": "2I",
+    "TimeFora": "NOR",
     "Data": "30/06"
   },
   {
@@ -49,7 +49,7 @@
     "HorarioH": 18,
     "HorarioM": 0,
     "Local": "MetLife Stadium\nEast Rutherford (NJ)",
-    "TimeCasa": "1I",
+    "TimeCasa": "FRA",
     "TimeFora": "3CDFGH",
     "Data": "30/06"
   },
@@ -121,7 +121,7 @@
     "HorarioH": 15,
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
-    "TimeCasa": "2D",
+    "TimeCasa": "AUS",
     "TimeFora": "2G",
     "Data": "03/07"
   },
