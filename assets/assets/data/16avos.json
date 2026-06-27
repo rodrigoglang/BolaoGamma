@@ -23,7 +23,7 @@
     "HorarioM": 30,
     "Local": "Gillette Stadium\nFoxborough (MA)",
     "TimeCasa": "GER",
-    "TimeFora": "3ABCDF",
+    "TimeFora": "PAR",
     "Data": "29/06"
   },
   {
@@ -50,7 +50,7 @@
     "HorarioM": 0,
     "Local": "MetLife Stadium\nEast Rutherford (NJ)",
     "TimeCasa": "FRA",
-    "TimeFora": "3CDFGH",
+    "TimeFora": "SWE",
     "Data": "30/06"
   },
   {
@@ -59,7 +59,7 @@
     "HorarioM": 0,
     "Local": "Estadio Azteca\nMexico City (CDMX)",
     "TimeCasa": "MEX",
-    "TimeFora": "3CEFHI",
+    "TimeFora": "ECU",
     "Data": "30/06"
   },
   {
