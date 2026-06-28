@@ -646,5 +646,14 @@
     "TimeCasa": "CRO",
     "TimeFora": "GHA",
     "Data": "27/06"
+  },
+  {
+    "Grupo": "M73",
+    "HorarioH": 16,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "RSA",
+    "TimeFora": "CAN",
+    "Data": "28/06"
   }
 ]
