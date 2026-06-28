@@ -68,7 +68,7 @@
     "HorarioM": 0,
     "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
     "TimeCasa": "ENG",
-    "TimeFora": "3EHIJK",
+    "TimeFora": "COD",
     "Data": "01/07"
   },
   {
@@ -77,7 +77,7 @@
     "HorarioM": 0,
     "Local": "Lumen Field\nSeattle (WA)",
     "TimeCasa": "BEL",
-    "TimeFora": "3AEHIJ",
+    "TimeFora": "SEN",
     "Data": "01/07"
   },
   {
@@ -95,7 +95,7 @@
     "HorarioM": 0,
     "Local": "SoFi Stadium\nInglewood (CA)",
     "TimeCasa": "ESP",
-    "TimeFora": "2J",
+    "TimeFora": "AUT",
     "Data": "02/07"
   },
   {
@@ -103,7 +103,7 @@
     "HorarioH": 20,
     "HorarioM": 0,
     "Local": "BMO Field\nToronto (ON)",
-    "TimeCasa": "2K",
+    "TimeCasa": "POR",
     "TimeFora": "CRO",
     "Data": "02/07"
   },
@@ -113,7 +113,7 @@
     "HorarioM": 0,
     "Local": "BC Place\nVancouver (BC)",
     "TimeCasa": "SUI",
-    "TimeFora": "3EFGIJ",
+    "TimeFora": "ALG",
     "Data": "03/07"
   },
   {
@@ -139,8 +139,8 @@
     "HorarioH": 22,
     "HorarioM": 30,
     "Local": "Arrowhead Stadium\nKansas City (MO)",
-    "TimeCasa": "1K",
-    "TimeFora": "3DEIJL",
+    "TimeCasa": "COL",
+    "TimeFora": "GHA",
     "Data": "03/07"
   }
 ]
