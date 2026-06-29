@@ -647,13 +647,148 @@
     "TimeFora": "GHA",
     "Data": "27/06"
   },
-  {
+{
     "Grupo": "M73",
-    "HorarioH": 19,
+    "HorarioH": 16,
     "HorarioM": 0,
     "Local": "SoFi Stadium\nInglewood (CA)",
     "TimeCasa": "RSA",
     "TimeFora": "CAN",
     "Data": "28/06"
+  },
+  {
+    "Grupo": "M76",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "NRG Stadium\nHouston (TX)",
+    "TimeCasa": "BRA",
+    "TimeFora": "JPN",
+    "Data": "29/06"
+  },
+  {
+    "Grupo": "M74",
+    "HorarioH": 20,
+    "HorarioM": 30,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "GER",
+    "TimeFora": "PAR",
+    "Data": "29/06"
+  },
+  {
+    "Grupo": "M75",
+    "HorarioH": 1,
+    "HorarioM": 0,
+    "Local": "Estadio BBVA\nMonterrey (NL)",
+    "TimeCasa": "NED",
+    "TimeFora": "MAR",
+    "Data": "30/06"
+  },
+  {
+    "Grupo": "M78",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "CIV",
+    "TimeFora": "NOR",
+    "Data": "30/06"
+  },
+  {
+    "Grupo": "M77",
+    "HorarioH": 21,
+    "HorarioM": 0,
+    "Local": "MetLife Stadium\nEast Rutherford (NJ)",
+    "TimeCasa": "FRA",
+    "TimeFora": "SWE",
+    "Data": "30/06"
+  },
+  {
+    "Grupo": "M79",
+    "HorarioH": 1,
+    "HorarioM": 0,
+    "Local": "Estadio Azteca\nMexico City (CDMX)",
+    "TimeCasa": "MEX",
+    "TimeFora": "ECU",
+    "Data": "01/07"
+  },
+  {
+    "Grupo": "M80",
+    "HorarioH": 17,
+    "HorarioM": 0,
+    "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
+    "TimeCasa": "ENG",
+    "TimeFora": "COD",
+    "Data": "01/07"
+  },
+  {
+    "Grupo": "M82",
+    "HorarioH": 20,
+    "HorarioM": 0,
+    "Local": "Lumen Field\nSeattle (WA)",
+    "TimeCasa": "BEL",
+    "TimeFora": "SEN",
+    "Data": "01/07"
+  },
+  {
+    "Grupo": "M81",
+    "HorarioH": 0,
+    "HorarioM": 0,
+    "Local": "Levi's Stadium\nSanta Clara (CA)",
+    "TimeCasa": "USA",
+    "TimeFora": "BIH",
+    "Data": "02/07"
+  },
+  {
+    "Grupo": "M84",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "ESP",
+    "TimeFora": "AUT",
+    "Data": "02/07"
+  },
+  {
+    "Grupo": "M83",
+    "HorarioH": 23,
+    "HorarioM": 0,
+    "Local": "BMO Field\nToronto (ON)",
+    "TimeCasa": "POR",
+    "TimeFora": "CRO",
+    "Data": "02/07"
+  },
+  {
+    "Grupo": "M85",
+    "HorarioH": 3,
+    "HorarioM": 0,
+    "Local": "BC Place\nVancouver (BC)",
+    "TimeCasa": "SUI",
+    "TimeFora": "ALG",
+    "Data": "03/07"
+  },
+  {
+    "Grupo": "M88",
+    "HorarioH": 18,
+    "HorarioM": 0,
+    "Local": "AT&T Stadium\nArlington (TX)",
+    "TimeCasa": "AUS",
+    "TimeFora": "EGY",
+    "Data": "03/07"
+  },
+  {
+    "Grupo": "M86",
+    "HorarioH": 22,
+    "HorarioM": 0,
+    "Local": "Hard Rock Stadium\nMiami Gardens (FL)",
+    "TimeCasa": "ARG",
+    "TimeFora": "CPV",
+    "Data": "03/07"
+  },
+  {
+    "Grupo": "M87",
+    "HorarioH": 1,
+    "HorarioM": 30,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "COL",
+    "TimeFora": "GHA",
+    "Data": "04/07"
   }
 ]
