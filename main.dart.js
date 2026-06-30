@@ -48785,8 +48785,8 @@ break
 case 6:case 1:return A.B(q,r)
 case 2:return A.A(o.at(-1),r)}})
 return A.C($async$vO,r)},
-ac3(a){var s,r,q,p,o=this.e
-o===$&&A.b()
+ac3(a){var s,r,q,p,o,n=this.e
+n===$&&A.b()
 s=this.a.c
 s=A.co(s,"\xe9","e")
 s=A.co(s,"\xe1","a")
@@ -48801,13 +48801,15 @@ s=A.co(s,"\xe7","c")
 s=A.co(s,"\ud83e\udd47","")
 s=A.co(s,"\ud83e\udd48","")
 r=A.co(s,"\ud83e\udd49","")
-s=o==="DE"
-if(s)q="Teilen"
-else q=o==="EN"?"Share":"Compartilhar"
-if(s)p="Meine Entwicklung \u2014 Bol\xe3o do Gamma 2026"
-else p=o==="EN"?"My evolution \u2014 Bol\xe3o do Gamma 2026":"Minha evolu\xe7\xe3o \u2014 Bol\xe3o do Gamma 2026"
-o=new A.aFk(this,a,p,q)
-return A.ag(A.a([o.$1(u.R+r+".png"),B.aB,o.$1(u.P+r+".png")],t.p),B.h,B.e,B.i)},
+s=n==="DE"
+if(s)q="DE"
+else q=n==="EN"?"EN":"PT"
+if(s)p="Teilen"
+else p=n==="EN"?"Share":"Compartilhar"
+if(s)o="Meine Entwicklung \u2014 Bol\xe3o do Gamma 2026"
+else o=n==="EN"?"My evolution \u2014 Bol\xe3o do Gamma 2026":"Minha evolu\xe7\xe3o \u2014 Bol\xe3o do Gamma 2026"
+n=new A.aFk(this,a,o,p)
+return A.ag(A.a([n.$1(u.R+r+".png"),B.aB,n.$1("https://raw.githubusercontent.com/rodrigoglang/BolaoGamma/main/assets/assets/charts/matamata-"+r+"-"+q+".png")],t.p),B.h,B.e,B.i)},
 ac1(a,b){return A.aP1(new A.aFd(this,b,a),this.vr(a),t.P)},
 vr(a){return this.al6(a)},
 al6(d1){var s=0,r=A.D(t.P),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0
