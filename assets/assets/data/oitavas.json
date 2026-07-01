@@ -5,7 +5,7 @@
     "HorarioM": 0,
     "Local": "NRG Stadium\nHouston (TX)",
     "TimeCasa": "PAR",
-    "TimeFora": "TBD",
+    "TimeFora": "FRA",
     "Data": "04/07"
   },
   {
@@ -23,7 +23,7 @@
     "HorarioM": 0,
     "Local": "MetLife Stadium\nEast Rutherford (NJ)",
     "TimeCasa": "BRA",
-    "TimeFora": "TBD",
+    "TimeFora": "NOR",
     "Data": "05/07"
   },
   {
@@ -31,7 +31,7 @@
     "HorarioH": 21,
     "HorarioM": 0,
     "Local": "Estadio Azteca\nMexico City (CDMX)",
-    "TimeCasa": "TBD",
+    "TimeCasa": "MEX",
     "TimeFora": "TBD",
     "Data": "05/07"
   },
