@@ -40,8 +40,8 @@
     "HorarioH": 16,
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
-    "TimeCasa": "TBD",
-    "TimeFora": "TBD",
+    "TimeCasa": "POR",
+    "TimeFora": "ESP",
     "Data": "06/07"
   },
   {
@@ -50,7 +50,7 @@
     "HorarioM": 0,
     "Local": "Lumen Field\nSeattle (WA)",
     "TimeCasa": "USA",
-    "TimeFora": "SEN",
+    "TimeFora": "BEL",
     "Data": "06/07"
   },
   {
