@@ -4,8 +4,8 @@
     "HorarioH": 14,
     "HorarioM": 0,
     "Local": "NRG Stadium\nHouston (TX)",
-    "TimeCasa": "TBD",
-    "TimeFora": "TBD",
+    "TimeCasa": "CAN",
+    "TimeFora": "MAR",
     "Data": "04/07"
   },
   {
@@ -13,8 +13,8 @@
     "HorarioH": 18,
     "HorarioM": 0,
     "Local": "Lincoln Financial Field\nPhiladelphia (PA)",
-    "TimeCasa": "TBD",
-    "TimeFora": "TBD",
+    "TimeCasa": "PAR",
+    "TimeFora": "FRA",
     "Data": "04/07"
   },
   {
@@ -68,7 +68,7 @@
     "HorarioM": 0,
     "Local": "BC Place\nVancouver (BC)",
     "TimeCasa": "SUI",
-    "TimeFora": "TBD",
+    "TimeFora": "COL",
     "Data": "07/07"
   }
 ]
