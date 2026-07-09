@@ -862,5 +862,41 @@
     "TimeCasa": "SUI",
     "TimeFora": "COL",
     "Data": "07/07"
+  },
+  {
+    "Grupo": "M97",
+    "HorarioH": 20,
+    "HorarioM": 0,
+    "Local": "Gillette Stadium\nFoxborough (MA)",
+    "TimeCasa": "MAR",
+    "TimeFora": "FRA",
+    "Data": "09/07"
+  },
+  {
+    "Grupo": "M98",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "SoFi Stadium\nInglewood (CA)",
+    "TimeCasa": "ESP",
+    "TimeFora": "BEL",
+    "Data": "10/07"
+  },
+  {
+    "Grupo": "M99",
+    "HorarioH": 21,
+    "HorarioM": 0,
+    "Local": "Hard Rock Stadium\nMiami Gardens (FL)",
+    "TimeCasa": "NOR",
+    "TimeFora": "ENG",
+    "Data": "11/07"
+  },
+  {
+    "Grupo": "M100",
+    "HorarioH": 1,
+    "HorarioM": 0,
+    "Local": "Arrowhead Stadium\nKansas City (MO)",
+    "TimeCasa": "ARG",
+    "TimeFora": "SUI",
+    "Data": "12/07"
   }
 ]
