@@ -4,8 +4,8 @@
     "HorarioH": 16,
     "HorarioM": 0,
     "Local": "AT&T Stadium\nArlington (TX)",
-    "TimeCasa": "TBD",
-    "TimeFora": "TBD",
+    "TimeCasa": "FRA",
+    "TimeFora": "ESP",
     "Data": "14/07"
   },
   {
@@ -13,8 +13,8 @@
     "HorarioH": 16,
     "HorarioM": 0,
     "Local": "Mercedes-Benz Stadium\nAtlanta (GA)",
-    "TimeCasa": "TBD",
-    "TimeFora": "TBD",
+    "TimeCasa": "ENG",
+    "TimeFora": "ARG",
     "Data": "15/07"
   }
 ]
