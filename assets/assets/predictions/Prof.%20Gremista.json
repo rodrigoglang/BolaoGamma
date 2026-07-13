@@ -675,13 +675,6 @@
       "Vencedor": null,
       "sigma": 1.7035073606964493,
       "ScoreVencedor": 0
-    },
-    "100": {
-      "ScoreA": 1,
-      "ScoreB": 3,
-      "Score": null,
-      "Cravado": null,
-      "Vencedor": "BEL"
     }
   },
   "profile": {

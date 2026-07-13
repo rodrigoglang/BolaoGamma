@@ -684,13 +684,6 @@
       "Vencedor": "ARG",
       "sigma": 0.9419843861323558,
       "ScoreVencedor": 45
-    },
-    "100": {
-      "ScoreA": 2,
-      "ScoreB": 0,
-      "Score": null,
-      "Cravado": null,
-      "Vencedor": "FRA"
     }
   },
   "profile": {

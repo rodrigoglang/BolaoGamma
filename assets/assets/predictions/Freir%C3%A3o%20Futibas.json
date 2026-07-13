@@ -666,13 +666,6 @@
       "Vencedor": null,
       "sigma": 3.340343818060189,
       "ScoreVencedor": 0
-    },
-    "100": {
-      "ScoreA": 1,
-      "ScoreB": 2,
-      "Score": null,
-      "Cravado": null,
-      "Vencedor": "ESP"
     }
   },
   "profile": {
