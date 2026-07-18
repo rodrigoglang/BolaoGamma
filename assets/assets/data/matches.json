@@ -916,5 +916,23 @@
     "TimeCasa": "ENG",
     "TimeFora": "ARG",
     "Data": "15/07"
+  },
+    {
+    "Grupo": "M103",
+    "HorarioH": 21,
+    "HorarioM": 0,
+    "Local": "Hard Rock Stadium\nMiami Gardens (FL)",
+    "TimeCasa": "FRA",
+    "TimeFora": "ENG",
+    "Data": "18/07"
+  },
+  {
+    "Grupo": "M104",
+    "HorarioH": 19,
+    "HorarioM": 0,
+    "Local": "MetLife Stadium\nEast Rutherford (NJ)",
+    "TimeCasa": "ESP",
+    "TimeFora": "ARG",
+    "Data": "19/07"
   }
 ]
